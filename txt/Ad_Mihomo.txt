@@ -7881,6 +7881,7 @@
 +.analytics-sm.com
 +.analytics.blue
 +.analytics.com
++.analytics.discountwa
 +.analyticsapi.site
 +.analyticsb2c.com
 +.analyticsgateway.com
@@ -24426,7 +24427,6 @@
 +.discountsextoysprices.com
 +.discountstickersky.com
 +.smetrics.discounttire.com
-+.analytics.discountwatersofteners.com
 +.discourageabjure.com
 +.discourageearlapfully.com
 +.adserver.discoursehosting.com
@@ -40333,6 +40333,7 @@
 +.analytics.izumi.finance
 +.izzicasino.com
 +.izzicasino1702.com
++.j
 +.hcjpbc.j-14.com
 +.j-a-x-affiliate.net
 +.j-cta.org
@@ -40787,7 +40788,6 @@
 +.jfjbhh.com
 +.jfjle4g5l.com
 +.jfjslia.top
-+.jfrrnf.icu
 +.jftobitbxg.com
 +.jg1668.com
 +.jgapcsi.icu
@@ -73208,6 +73208,7 @@
 +.log.tinnhac.com
 +.tinsus.com
 +.tintedvideo.com
++.tintinvay.com
 +.tintprestigecrumble.com
 +.tintyaliyoth.top
 +.tiny-atmosphere.com
@@ -83828,6 +83829,7 @@
 +.trck.www4.zellepay.com
 +.zemanta.com
 +.zemydreamsauk.com
++.zen-core-us.
 +.zen0935.com
 +.zenadservices.net
 +.zenal.xyz

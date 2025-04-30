@@ -563,6 +563,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5873,7 +5874,6 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
-+.e.com
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -6546,7 +6546,6 @@
 +.f-droid.org
 +.f2pool.com
 +.f5pf.com
-+.f5pf.com000webhost.com
 +.f6988.com
 +.f8.com
 +.faacebok.com
@@ -9903,7 +9902,6 @@
 +.iirmll.com
 +.ijavhd.com
 +.ijavtorrent.com
-+.ikanhm.xrdpress.com
 +.ikanhm.xyz
 +.ikanmh.xyz
 +.ikano
@@ -10239,7 +10237,6 @@
 +.inventor-certified.com
 +.inventorfusion.com
 +.inventorseries.com
-+.investigating.wo
 +.investing.com
 +.inxian.com
 +.inxporn.com
@@ -11495,7 +11492,6 @@
 +.linuxfromscratch.org
 +.linuxmint.com
 +.linuxtoy.org
-+.linwsweek.com
 +.lionsroar.com
 +.lipsy
 +.lipuman.com
@@ -13306,7 +13302,6 @@
 +.ncol.com
 +.ndi.org
 +.ne
-+.ne-worcscol.ac.+.aaa
 +.nebay.net
 +.neborder.com
 +.nec
@@ -17647,7 +17642,6 @@
 +.suno.com
 +.sunporno.com
 +.sunskyforum.com
-+.sunvpn.nekedin.com
 +.sunvpn.net
 +.suoluo.org
 +.supanimegames.com
