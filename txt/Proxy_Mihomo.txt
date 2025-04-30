@@ -3015,7 +3015,6 @@
 +.bisq.network
 +.bit-z.com
 +.bit.com
-+.bit.no.com
 +.bitballoon.com
 +.bitbank.cc
 +.bitbay.net
@@ -3565,6 +3564,7 @@
 +.brni.com
 +.broadbandreports.com
 +.broadbook.com
++.broadcom.com
 +.broadpressinc.com
 +.brocaproject.com
 +.brockbbs.com
@@ -3646,6 +3646,7 @@
 +.burstlyrewards.com
 +.busayari.com
 +.business-humanrights.org
++.business.net
 +.business.site
 +.businesscatalyst.com
 +.businessinsider.com
@@ -9243,6 +9244,7 @@
 +.hongkongfp.com
 +.hongkongpost.gov.hk
 +.hongmaodan100.com
++.hongmeimei.co000webhost.com
 +.hongmeimei.com
 +.honkaiimpact3.com
 +.honkaistarrail.com
@@ -12864,6 +12866,8 @@
 +.msgamesresearch.com
 +.msguancha.com
 +.mshome.net
++.msi.cn
++.msi.com
 +.msidentity.com
 +.msinnovationchallenge.com
 +.msk.ilnk.info
@@ -13744,6 +13748,7 @@
 +.no
 +.no-ip.com
 +.no-ip.org
++.no.com
 +.nobelprize.org
 +.nodejs.org
 +.nodeseek.com
@@ -14570,6 +14575,7 @@
 +.paypal-survey.com
 +.paypal-survey.org
 +.paypal-team.com
++.paypal-tfocus.com
 +.paypal-viewpoints.net
 +.paypal.com
 +.paypal.com.hk
