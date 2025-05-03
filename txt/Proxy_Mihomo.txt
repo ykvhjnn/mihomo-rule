@@ -154,6 +154,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -3651,6 +3652,7 @@
 +.businessinsider.com
 +.businesswebwise.com
 +.businessweek.com
++.businessweekly.co000webhost.com
 +.businessweekmag.com
 +.bustyangelique.com
 +.bustyarianna.com
@@ -5418,6 +5420,7 @@
 +.disneyjunior.com
 +.disneyjuniortreataday.com
 +.disneylatino.com
++.disneymagicmomentsme.co.com
 +.disneymagicmomentsme.com
 +.disneyme.com
 +.disneymeetingsandevents.com
@@ -9100,7 +9103,6 @@
 +.hjd2048.com
 +.hk-pub.com
 +.hk.file.myqcloud.com
-+.hk.gradconnection.com1password.drift.click
 +.hk.hao123img.com
 +.hk.weibo.com
 +.hk01.com
@@ -14297,6 +14299,7 @@
 +.otcbtc.com
 +.otnd.org
 +.otokonokoland.com
++.otorcars.com
 +.otsuka
 +.otzo.com
 +.oudoll.com
