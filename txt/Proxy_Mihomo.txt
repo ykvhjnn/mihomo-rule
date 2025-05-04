@@ -3652,7 +3652,6 @@
 +.businessinsider.com
 +.businesswebwise.com
 +.businessweek.com
-+.businessweekly.co000webhost.com
 +.businessweekmag.com
 +.bustyangelique.com
 +.bustyarianna.com
@@ -5420,7 +5419,6 @@
 +.disneyjunior.com
 +.disneyjuniortreataday.com
 +.disneylatino.com
-+.disneymagicmomentsme.co.com
 +.disneymagicmomentsme.com
 +.disneyme.com
 +.disneymeetingsandevents.com
@@ -8502,6 +8500,7 @@
 +.gotgeeks.com
 +.gothdporn.com
 +.gotporn.com
++.gotquestions.org
 +.gotraffic.net
 +.gotrusted.com
 +.gouhuo.qq.com
@@ -13751,6 +13750,7 @@
 +.no-ip.org
 +.nobelprize.org
 +.nodejs.org
++.nodeloc.com
 +.nodeseek.com
 +.nodesnoop.com
 +.nodesource.com
@@ -14299,7 +14299,6 @@
 +.otcbtc.com
 +.otnd.org
 +.otokonokoland.com
-+.otorcars.com
 +.otsuka
 +.otzo.com
 +.oudoll.com
@@ -17618,6 +17617,7 @@
 +.style
 +.su
 +.sub147.com
++.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
 +.submarin.online
