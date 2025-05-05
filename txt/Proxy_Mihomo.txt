@@ -16939,6 +16939,7 @@
 +.simplecd.org
 +.simplenote.com
 +.simpleproductivityblog.com
++.simplex.chat
 +.simplify.com
 +.simplifycommerce.com
 +.simply-hentai.com
@@ -21129,7 +21130,6 @@
 +.ysmass.com
 +.ysmeal.com
 +.ysmeat.com
-+.ysmeet.com
 +.ysmelf.com
 +.ysmere.com
 +.ysmuch.com
@@ -21289,6 +21289,7 @@
 +.zmw.cn
 +.zndsk.com
 +.zobry.site
++.zodgame.xyz
 +.zoho.com
 +.zohocdn.com
 +.zohomeetups.com
