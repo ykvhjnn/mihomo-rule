@@ -154,7 +154,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -563,6 +562,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1148,7 +1148,6 @@
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
-+.amainaustralia.org
 +.amakings.com
 +.amamanualofstyle.com
 +.amandalist.com
@@ -1240,6 +1239,7 @@
 +.amazonvideo.cc
 +.amazonvideo.com
 +.amazonvideodirect.com
++.amazonworkdocs.cegexp:(^|\.)luchuxue([0-9]{0,5})\.buzz$
 +.amazonworkdocs.com
 +.amc.com
 +.amcn.com
@@ -5018,7 +5018,6 @@
 +.dalailamaquotes.org
 +.dalailamatrust.org
 +.dalailamaworld.com
-+.dalailiolotron.com
 +.dalianmeng.org
 +.daliulian.org
 +.damduc.org
@@ -8580,6 +8579,7 @@
 +.gsuite.com
 +.gt
 +.gt536.top
++.gtd3.com
 +.gtm.oasisfeng.com
 +.gtricks.com
 +.gts-vpn.com
@@ -9508,6 +9508,7 @@
 +.hr
 +.hrcchina.org
 +.hrcir.com
++.hrea.or# NAME: Proxy
 +.hrea.org
 +.hrichina.org
 +.hrntt.org
@@ -11481,7 +11482,6 @@
 +.link69.com
 +.linkedin.com
 +.linkideo.com
-+.linkinglon+.aaa
 +.linkjunkies.com
 +.linksalpha.com
 +.linkshit.com
@@ -12393,6 +12393,7 @@
 +.mindmeld.com
 +.mindnode.com
 +.mindrolling.org
++.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
 +.minecraftservices.com
@@ -13768,6 +13769,7 @@
 +.nonstopfap.com
 +.noodlemagazine.com
 +.noodlevpn.com
++.nor000webhost.com
 +.norbulingka.org
 +.nordstrom.com
 +.nordstromimage.com
@@ -16127,6 +16129,7 @@
 +.rolls-roycecullinan.com
 +.rolls-roycemotorcars.com
 +.rolls-roycemotorcarsna.com
++.rolls-roycemotorcarsna.voice.com
 +.roloflix.com
 +.roloxxx.com
 +.rolsociety.org
@@ -17136,7 +17139,6 @@
 +.so
 +.soasta-dswb.com
 +.sobees.com
-+.soc# NAME: Proxy
 +.socailcam.com
 +.socalbmw.com
 +.soccermatchpass.com
@@ -17805,6 +17807,7 @@
 +.t.co
 +.t.me
 +.t35.com
++.t661password.drift.click
 +.t66y.com
 +.t91y.com
 +.taa-usa.org
@@ -18184,6 +18187,7 @@
 +.theporntoplist.com
 +.theporny.com
 +.theportalwiki.com
++.therosliningpaovan.com
 +.thesafeporn.com
 +.thesexbible.com
 +.thesffblog.com
@@ -20160,6 +20164,7 @@
 +.wordpress.com
 +.wordpress.org
 +.wordpress.tv
++.work2icg
 +.work2icu.org
 +.workatruna.com
 +.workerdemo.org.hk
@@ -20871,6 +20876,7 @@
 +.xxxyaom.xyz
 +.xxxymovies.com
 +.xxxyoungxxx.com
++.xy.com
 +.xys.org
 +.xysblogs.org
 +.xyy69.com
