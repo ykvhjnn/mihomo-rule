@@ -1,14 +1,7 @@
 name: Update Filters
 on:
-  push:
-    paths-ignore:
-      - 'README.md'
-      - '.github/**'
-      - 'LICENSE'
-      - 'rules/**'
-    branches: [ main ]
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 1 * * *"  # 每天中国时间早上 9 点运行
   workflow_dispatch:
 
 env:
@@ -25,14 +18,19 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v3
 
+      # Setup Environment
+      - name: Setup Environment
+        run: |
+          chmod +x ./script/build-combined-rules.sh
+
       # Run build script
-      - name: Built Rules
+      - name: Build Rules
         run: |
           bash ./script/build-combined-rules.sh
       
       # Commit and push changes if detected
       - name: Commit Changes
-        id: commit
+        id: 提交
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 🚀 CI Updated
@@ -50,5 +48,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 1
+          retain_days: 7
+          keep_minimum_runs: 3
