@@ -30,7 +30,7 @@ jobs:
       
       # Commit and push changes if detected
       - name: Commit Changes
-        id: 提交
+        id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 🚀 CI Updated
