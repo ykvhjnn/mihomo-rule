@@ -65,7 +65,7 @@ process_rules() {
     local has_white=0
     for url in "${urls[@]}"; do
         # 修复错误的 URL 协议头
-        url=$(echo "$url" | sed 's/^ttps:/https:/')
+        url=$(echo "$url" | sed -e 's/^ttps:/https:/g')
 
         if [[ "$url" == [white]* ]]; then
             has_white=1
