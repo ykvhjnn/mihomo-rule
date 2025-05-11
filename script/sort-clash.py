@@ -10,18 +10,6 @@ def clean_line(line):
     return line.replace(" ", "").replace("-", "").replace('"', "").replace("'", "").replace("|", "").replace("^", "")
 
 
-def is_valid_domain(domain):
-    """
-    检查是否为合法的纯域名或域名后缀
-    仅保留符合条件的域名，例如：
-    - example.com (纯域名)
-    - .com (域名后缀)
-    """
-    # 匹配纯域名或域名后缀
-    domain_pattern = re.compile(r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$|^\.[a-zA-Z]{2,}$")
-    return bool(domain_pattern.match(domain))
-
-
 def extract_domain(line):
     """
     从规则中提取有效域名，允许的格式为：
@@ -39,21 +27,19 @@ def extract_domain(line):
         return None
 
     if line.startswith("DOMAIN,"):
-        domain = line[7:]
+        return line[7:]
     elif line.startswith("DOMAIN-SUFFIX,"):
-        domain = line[14:]
+        return line[14:]
     elif line.startswith("+."):
-        domain = line[2:]
+        return line[2:]
     elif line.startswith("*"):
-        domain = line[1:]
+        return line[1:]
     elif line.startswith("."):
-        domain = line[1:]
+        return line[1:]
     elif "." in line:
-        domain = line
+        return line
     else:
         return None
-
-    return domain if is_valid_domain(domain) else None
 
 
 async def process_chunk(chunk):
