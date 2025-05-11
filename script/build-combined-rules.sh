@@ -64,6 +64,9 @@ process_rules() {
     # 分类下载规则到对应的文件
     local has_white=0
     for url in "${urls[@]}"; do
+        # 修复错误的 URL 协议头
+        url=$(echo "$url" | sed 's/^ttps:/https:/')
+
         if [[ "$url" == [white]* ]]; then
             has_white=1
             url="${url#[white]}"
