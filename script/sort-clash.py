@@ -5,9 +5,21 @@ import asyncio
 
 def clean_line(line):
     """
-    清理行中的无意义字符，包括空格、引号等
+    清理行中的无意义字符（包括空格、引号、特殊符号）
     """
-    return line.replace(" ", "").replace("-", "").replace('"', "").replace("'", "")
+    return line.replace(" ", "").replace("-", "").replace('"', "").replace("'", "").replace("|", "").replace("^", "")
+
+
+def is_valid_domain(domain):
+    """
+    检查是否为合法的纯域名或域名后缀
+    仅保留符合条件的域名，例如：
+    - example.com (纯域名)
+    - .com (域名后缀)
+    """
+    # 匹配纯域名或域名后缀
+    domain_pattern = re.compile(r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$|^\.[a-zA-Z]{2,}$")
+    return bool(domain_pattern.match(domain))
 
 
 def extract_domain(line):
@@ -22,24 +34,26 @@ def extract_domain(line):
     """
     line = clean_line(line.strip())
     if not line or line.startswith((
-        "payload:", "rules:", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!"
+        "payload:", "rules:", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!", "/", "【", "】", "[", "]"
     )):
         return None
 
     if line.startswith("DOMAIN,"):
-        return line[7:]
+        domain = line[7:]
     elif line.startswith("DOMAIN-SUFFIX,"):
-        return line[14:]
+        domain = line[14:]
     elif line.startswith("+."):
-        return line[2:]
+        domain = line[2:]
     elif line.startswith("*"):
-        return line[1:]
+        domain = line[1:]
     elif line.startswith("."):
-        return line[1:]
+        domain = line[1:]
     elif "." in line:
-        return line
+        domain = line
     else:
         return None
+
+    return domain if is_valid_domain(domain) else None
 
 
 async def process_chunk(chunk):
