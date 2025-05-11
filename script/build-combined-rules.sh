@@ -19,12 +19,22 @@ declare -A RULES=(
         https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
+        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
     "
     [Proxy]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
         https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
+        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
@@ -32,12 +42,6 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
     "
 )
-
-# 函数：修复 URL 协议
-fix_url_protocol() {
-    local url=$1
-    echo "$url" | sed 's/^ttps:/https:/'
-}
 
 # 函数：处理规则
 process_rules() {
@@ -47,64 +51,35 @@ process_rules() {
     local urls=("$@")
     local domain_file="${name}_domain.txt"
     local tmp_file="${name}_tmp.txt"
-    local white_file="${name}_white.txt"
-    local final_file="${name}_final.txt"
+    local mihomo_txt_file="${name}_Mihomo.txt"
+    local mihomo_mrs_file="${mihomo_txt_file%.txt}.mrs"
 
     log "开始处理规则: $name"
 
     # 初始化文件
     > "$domain_file"
-    > "$white_file"
+
+    # 并行下载规则到临时文件
     > "$tmp_file"
+    log "开始下载规则文件到临时文件: $tmp_file"
+    printf "%s\n" "${urls[@]}" | xargs -P 16 -I {} sh -c 'curl --http2 --compressed --max-time 30 --retry 3 -sSL "{}" >> '"$tmp_file"' || echo "Failed: {}" >&2'
 
-    # 分类下载规则到对应的文件
-    local has_white=0
-    for url in "${urls[@]}"; do
-        # 修复错误的 URL 协议头
-        url=$(fix_url_protocol "$url")
-
-        if [[ "$url" == [white]* ]]; then
-            has_white=1
-            url="${url#[white]}"
-            if ! curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$white_file"; then
-                error "白名单规则下载失败: $url"
-            fi
-        else
-            if ! curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$tmp_file"; then
-                error "规则下载失败: $url"
-            fi
-        fi
-    done
-
-    log "规则文件下载完成: $name"
-
-    if [[ $has_white -eq 1 ]]; then
-        # 合并并去重白名单
-        sort -u "$white_file" -o "$white_file"
-        log "白名单已合并去重: $white_file"
-
-        # 合并并去重正常清单
-        sort -u "$tmp_file" -o "$tmp_file"
-        log "正常清单已合并去重: $tmp_file"
-
-        # 从正常清单移除与白名单重复的条目
-        comm -23 "$tmp_file" "$white_file" > "$final_file"
-        log "已从正常清单移除与白名单重复条目: $final_file"
-
-        # 删除临时文件
-        rm -f "$tmp_file" "$white_file"
-    else
-        # 如果没有白名单，只需直接合并去重正常清单
-        sort -u "$tmp_file" -o "$final_file"
-        log "正常清单已合并去重: $final_file"
-
-        # 删除临时文件
-        rm -f "$tmp_file"
+    if [ $? -ne 0 ]; then
+        error "下载规则失败: $name"
+        return 1
     fi
+    log "规则文件下载完成: $tmp_file"
+
+    # 合并并去重
+    cat "$tmp_file" >> "$domain_file"
+    rm -f "$tmp_file"
+    log "规则文件已合并到: $domain_file"
 
     # 修复换行符并调用对应的 Python 脚本去重排序
-    sed -i 's/\r//' "$final_file"
-    python "$script" "$final_file"
+    sed -i 's/\r//' "$domain_file"
+    log "已修复换行符: $domain_file"
+
+    python "$script" "$domain_file"
     if [ $? -ne 0 ]; then
         error "Python 脚本执行失败: $script"
         return 1
@@ -112,8 +87,18 @@ process_rules() {
     log "Python 脚本执行完成: $script"
 
     # 转换为 Mihomo 格式
-    sed "s/^/\\+\\./g" "$final_file" > "${name}_Mihomo.txt"
-    log "Mihomo 格式转换完成: ${name}_Mihomo.txt"
+    sed "s/^/\\+\\./g" "$domain_file" > "$mihomo_txt_file"
+    ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
+    if [ $? -ne 0 ]; then
+        error "Mihomo 工具转换失败: $mihomo_txt_file"
+        return 1
+    fi
+    log "Mihomo 工具转换完成: $mihomo_txt_file -> $mihomo_mrs_file"
+
+    # 将生成的文件移动到 ../ 目录
+    mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
+    mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
+    log "已将生成文件移动到对应目录🙉: $mihomo_txt_file, $mihomo_mrs_file"
 }
 
 # 下载 Mihomo 工具
@@ -142,13 +127,17 @@ setup_mihomo_tool() {
 # 主流程
 setup_mihomo_tool
 
-# 逐组处理规则
+# 并行处理所有规则组
 for name in "${!RULES[@]}"; do
     # 解析规则配置
     IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
     urls=($urls) # 转为数组
-    process_rules "$name" "$script" "${urls[@]}"
+
+    process_rules "$name" "$script" "${urls[@]}" &
 done
+
+# 等待所有规则并行处理完成
+wait
 
 # 清理缓存文件
 rm -rf ./*.txt "$mihomo_tool"
