@@ -19,22 +19,12 @@ declare -A RULES=(
         https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
     "
     [Proxy]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
         https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
@@ -42,6 +32,12 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
     "
 )
+
+# 函数：修复 URL 协议
+fix_url_protocol() {
+    local url=$1
+    echo "$url" | sed 's/^ttps:/https:/'
+}
 
 # 函数：处理规则
 process_rules() {
@@ -65,22 +61,22 @@ process_rules() {
     local has_white=0
     for url in "${urls[@]}"; do
         # 修复错误的 URL 协议头
-        url=$(echo "$url" | sed -e 's/^ttps:/https:/g')
+        url=$(fix_url_protocol "$url")
 
         if [[ "$url" == [white]* ]]; then
             has_white=1
             url="${url#[white]}"
-            curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$white_file" || echo "Failed: $url" >&2
+            if ! curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$white_file"; then
+                error "白名单规则下载失败: $url"
+            fi
         else
-            curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$tmp_file" || echo "Failed: $url" >&2
+            if ! curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" >> "$tmp_file"; then
+                error "规则下载失败: $url"
+            fi
         fi
     done
 
-    if [ $? -ne 0 ]; then
-        error "下载规则失败: $name"
-        return 1
-    fi
-    log "规则文件下载完成"
+    log "规则文件下载完成: $name"
 
     if [[ $has_white -eq 1 ]]; then
         # 合并并去重白名单
@@ -146,17 +142,13 @@ setup_mihomo_tool() {
 # 主流程
 setup_mihomo_tool
 
-# 并行处理所有规则组
+# 逐组处理规则
 for name in "${!RULES[@]}"; do
     # 解析规则配置
     IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
     urls=($urls) # 转为数组
-
-    process_rules "$name" "$script" "${urls[@]}" &
+    process_rules "$name" "$script" "${urls[@]}"
 done
-
-# 等待所有规则并行处理完成
-wait
 
 # 清理缓存文件
 rm -rf ./*.txt "$mihomo_tool"
