@@ -3009,6 +3009,7 @@
 +.bitvise.com
 +.bitwarden.com
 +.bitwarden.net
++.bitz.be.com
 +.bitz.com
 +.bizarresexuality.com
 +.bizhat.com
@@ -20198,6 +20199,7 @@
 +.xfuckonline.com
 +.xfxssr.me
 +.xgames.zone
++.xgaytu000webhost.com
 +.xgaytube.com
 +.xgaytube.tv
 +.xgirls.webcam
