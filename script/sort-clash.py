@@ -22,7 +22,7 @@ def extract_domain(line):
     """
     line = clean_line(line.strip())
     if not line or line.startswith((
-        "payload:", "rules:", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!", "/", "【", "】", "[", "]"
+        "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!", "/", "【", "】", "[", "]"
     )):
         return None
 
