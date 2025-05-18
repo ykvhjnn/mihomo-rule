@@ -929,6 +929,7 @@
 +.airwatch.com
 +.airwatchexpress.com
 +.airwatchqa.com
++.airwick.co.zaingpaomonthly.com
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -2376,6 +2377,7 @@
 +.bbkz.com
 +.bbnradio.org
 +.bbqm1.xyz
++.bbs.naixi.net
 +.bbs.sina.com
 +.bbsdigest.com
 +.bbsfeed.com
@@ -11170,6 +11172,7 @@
 +.lcgirls.com
 +.lcsmerch.com
 +.ld.hao123img.com
++.ldplayer.net
 +.leafyvpn.net
 +.leaguehighschool.com
 +.leagueoflegends.com
@@ -11624,6 +11627,7 @@
 +.lzjscript.com
 +.lzmtnews.org
 +.m.me
++.m000webhost.com
 +.m2m.com
 +.m5ir5np1.shop
 +.m8008.com
@@ -13386,6 +13390,7 @@
 +.ngfiles.com
 +.nginx.com
 +.nginx.org
++.ngodupdongchung.co
 +.ngodupdongchung.com
 +.nhentai.com
 +.nhentai.net
