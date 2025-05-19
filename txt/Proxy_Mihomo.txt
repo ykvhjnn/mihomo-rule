@@ -929,7 +929,6 @@
 +.airwatch.com
 +.airwatchexpress.com
 +.airwatchqa.com
-+.airwick.co.zaingpaomonthly.com
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -5332,6 +5331,7 @@
 +.dish
 +.dish.com
 +.dishworld.com
++.diskstation.me
 +.disney.asia
 +.disney.com
 +.disney.com.hk
@@ -5479,6 +5479,7 @@
 +.docker.com
 +.dockerhub.com
 +.dockerizer.com
++.dockerstatic.com
 +.docleradn.com
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
@@ -5680,10 +5681,16 @@
 +.drunkentop.com
 +.drweb.cn
 +.drweb.com
++.dscloud.biz
++.dscloud.me
++.dscloud.mobi
 +.dscn.info
 +.dslr.net
 +.dslreports.com
 +.dsmtp.com
++.dsmynas.com
++.dsmynas.net
++.dsmynas.org
 +.dssott.com
 +.dswz88.xyz
 +.dsyiren.com
@@ -6764,6 +6771,9 @@
 +.falunpilipinas.net
 +.falunworld.net
 +.fameregistry.com
++.familyds.com
++.familyds.net
++.familyds.org
 +.familyfed.org
 +.familypies.net
 +.familyporn.tv
@@ -9560,6 +9570,7 @@
 +.i.org
 +.i1.hk
 +.i123hp.com
++.i234.me
 +.i2runner.com
 +.i818hk.com
 +.i91av.org
@@ -9582,6 +9593,7 @@
 +.ibiblio.org
 +.ibkr.com
 +.iblist.com
++.ibllc.com
 +.iblogservf.net
 +.ibm
 +.ibm.com
@@ -11627,7 +11639,6 @@
 +.lzjscript.com
 +.lzmtnews.org
 +.m.me
-+.m000webhost.com
 +.m2m.com
 +.m5ir5np1.shop
 +.m8008.com
@@ -12890,6 +12901,7 @@
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
++.myds.me
 +.myeasytv.com
 +.myebay.com
 +.myeclipseide.com
@@ -13390,7 +13402,6 @@
 +.ngfiles.com
 +.nginx.com
 +.nginx.org
-+.ngodupdongchung.co
 +.ngodupdongchung.com
 +.nhentai.com
 +.nhentai.net
@@ -17615,6 +17626,7 @@
 +.syncback.com
 +.synergyse.com
 +.synology.com
++.synology.me
 +.synologydownload.com
 +.synologyupdate.com
 +.syosetu.com
@@ -18419,7 +18431,6 @@
 +.trikepatrol.com
 +.triokini.com
 +.trip.com
-+.tripcdn.com
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -18448,6 +18459,7 @@
 +.trustedpeach.com
 +.trustisfps.com
 +.trustprovider.com
++.trustwallet.com
 +.trustwave.com
 +.truthontour.org
 +.truthordarepics.com
