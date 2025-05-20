@@ -12733,6 +12733,7 @@
 +.msft.info
 +.msft.net
 +.msftauth.net
++.msftauthimages.net
 +.msftconnecttest.com
 +.msftncsi.com
 +.msftnet.org
