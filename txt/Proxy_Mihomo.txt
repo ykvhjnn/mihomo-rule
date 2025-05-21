@@ -559,7 +559,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2376,6 +2375,7 @@
 +.bbkz.com
 +.bbnradio.org
 +.bbqm1.xyz
++.bbs.boingboing.net
 +.bbs.naixi.net
 +.bbs.sina.com
 +.bbsdigest.com
@@ -4270,6 +4270,7 @@
 +.chuneo.xyz
 +.chunja19.net
 +.chuporno.com
++.churchinhongkong.icentral.com
 +.churchinhongkong.org
 +.chutuno.fun
 +.chuzs2.xyz
@@ -4344,6 +4345,7 @@
 +.citylab.com
 +.cityoflove.com
 +.citytourgirls.com
++.cityuni+.aaa
 +.civicparty.hk
 +.civil3d.com
 +.civilcc.com
@@ -4482,6 +4484,7 @@
 +.cmstwdigitalassets.com
 +.cmule.com
 +.cmule.org
++.cn.sandscota#NAME:Proxy
 +.cnabc.com
 +.cnbc.com
 +.cnbcfm.com
@@ -6071,6 +6074,7 @@
 +.efreenews.com
 +.eftstore.com
 +.efuckt.com
++.efuk
 +.efukt.com
 +.eg
 +.egold.com
@@ -7666,6 +7670,7 @@
 +.full:1password.drift.click
 +.full:adobeereg.com
 +.full:animerule34world.bcdn.net
++.full:bbs.boingboing.net
 +.full:bybit.ada.support
 +.full:cbsi.live.ott.irdeto.com
 +.full:cbsplaylistserver.aws.syncbak.com
@@ -8290,6 +8295,7 @@
 +.google.com
 +.google.com.co
 +.google.com.hk
++.google.dmorg
 +.google.me
 +.google.net
 +.google.org
@@ -8398,6 +8404,7 @@
 +.governmentengineer.com
 +.govforce.com
 +.gp
++.gpaocanada.com
 +.gpstheseries.com
 +.gputechconf.com
 +.gqueen.com
@@ -9010,6 +9017,7 @@
 +.hkcnews.com
 +.hkcoc.com
 +.hkcsl.com
++.hkct.com
 +.hkctu.org.hk
 +.hkdailynews.com.hk
 +.hkday.net
@@ -11185,6 +11193,7 @@
 +.lcsmerch.com
 +.ld.hao123img.com
 +.ldplayer.net
++.ldstatic.com
 +.leafyvpn.net
 +.leaguehighschool.com
 +.leagueoflegends.com
@@ -12262,6 +12271,7 @@
 +.mimivv.com
 +.mimizhibo.com
 +.mimizygo.buzz
++.minaseio.com
 +.minbrowser.org
 +.mindgeek.com
 +.mindmeld.com
@@ -13111,6 +13121,7 @@
 +.naoconto.com
 +.naol.cc
 +.napiszex.com
++.naptu.com
 +.nasiliconvalley.myqcloud.com
 +.nasiliconvalley.tencentcos.cn
 +.nasiliconvalley.tencentcos.com
@@ -15362,6 +15373,7 @@
 +.proxifier.com
 +.proxlet.com
 +.proxomitron.info
++.proxomitron.infodupdongchung.com
 +.proxpn.com
 +.proxy.org
 +.proxy1.xyz

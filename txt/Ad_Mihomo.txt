@@ -1422,7 +1422,6 @@
 +.52pk.com
 +.ad.52school.com
 +.adm.52swine.com
-+.52wmb.com
 +.api.52youtu.com
 +.52z.com
 +.a.52zxw.com
@@ -11597,6 +11596,7 @@
 +.pub49.bravenet.com
 +.pub5.bravenet.com
 +.pub50.bravenet.com
++.pub6.bravenet.com
 +.pub7.bravenet.com
 +.pub8.bravenet.com
 +.pub9.bravenet.com
@@ -15877,6 +15877,7 @@
 +.woocall.sina.com.cn
 +.www.gome.com.cn
 +.wxaintpcos.wxqcloud.qq.com.cn
++.xwmr.com.cn
 +.xyoss.g.com.cn
 +.yahoo.com.cn
 +.ydjs.zol.com.cn
@@ -26552,8 +26553,8 @@
 +.graushauls.xyz
 +.grave-blow.com
 +.gravegrandmother.pro
-+.gravel
 +.graveljav128.fun
++.gravelyjovialelemental.com
 +.gravenchivolus.com
 +.gravenesswomanlesszestfully.com
 +.gravitaledevelopment.com
@@ -44737,7 +44738,6 @@
 +.ownproposesanction.pro
 +.ownthmorningb.org
 +.owouucg.top
-+.immmg.owowqrf.cn
 +.google-analytics.bi.owox.com
 +.owrkwilxbw.com
 +.owusnf.net
@@ -47877,7 +47877,6 @@
 +.ls.collector.pub-tmaws.io
 +.pub.network
 +.pub2srv.com
-+.pub6.bravene
 +.pubadx.one
 +.pubcircle.ai
 +.pubdirecte.com
