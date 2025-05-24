@@ -559,7 +559,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -8642,6 +8641,7 @@
 +.hayabusa.media
 +.hayday.com
 +.haydaygame.com
++.hb+.aaa
 +.hbabit.com
 +.hbfile.net
 +.hbg.com
@@ -12748,6 +12748,7 @@
 +.msftncsi.com
 +.msftnet.org
 +.msgamesresearch.com
++.msgamestudios.com
 +.msguancha.com
 +.mshome.net
 +.msi.cn
