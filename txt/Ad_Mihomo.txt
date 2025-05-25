@@ -8811,6 +8811,7 @@
 +.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
 +.amdk5987.konohashigure.com
++.ame360dubai.com
 +.amedelivery.shop
 +.amedenlaw.com
 +.amelatrina.com
@@ -9071,6 +9072,7 @@
 +.analytex.userpilot.io
 +.analytexeu.userpilot.io
 +.analytexus.userpilot.io
++.analytiarchvision.com
 +.analytic.autotirechecking.com
 +.analytic.brainfi.sh
 +.analytic.ch7.com
@@ -9421,7 +9423,7 @@
 +.analytics.eventticketscenter.com
 +.analytics.everythingstream.com
 +.analytics.ewizsaas.com
-+.analytics.examfx.com
++.analytics.examfx.ccsapi.samsunghealthcn.com
 +.analytics.excellenceingiving.com
 +.analytics.extremecloudiq.com
 +.analytics.exuviance.com
@@ -27270,7 +27272,6 @@
 +.d3alqb8vzo7fun.cloudfront.net
 +.d3c3cq33003psk.cloudfront.net
 +.d3c8j8snkzfr1n.cloudfront.net
-+.d3cxv97fi8q177.cloudfront.net
 +.d3d30ac9d4.com
 +.d3dpet1g0ty5ed.cloudfront.net
 +.d3g.qq.com
@@ -30127,6 +30128,7 @@
 +.dnx.capital
 +.dnxkgy557059.vip
 +.dnyzbp.cn
++.do888x.com
 +.doablequery.com
 +.doaffiliate.net
 +.doapovauma.net
@@ -30233,6 +30235,7 @@
 +.dokondigit.quest
 +.doktordick.com
 +.doktorizauzdrvanispolecnosti.cloud
++.dokunpengsc.csdnimg.cn
 +.dol.myaerotel.com
 +.dolatiaschan.com
 +.dolbitnormalno.com
@@ -30322,7 +30325,6 @@
 +.dontreachme.duckdns.org
 +.donutlabdelivery.shop
 +.donzestran.pro
-+.doo888x.com
 +.doobles.app
 +.doodelds.app
 +.doodies.net
@@ -32975,7 +32977,6 @@
 +.entrezor.io
 +.entrinidad.cfd
 +.entry.baidu.com
-+.enumermbzz.live
 +.enunctrash.pro
 +.enunzpatro.pro
 +.envelopewarehouse.com
@@ -33381,8 +33382,8 @@
 +.esdrascastillo.com
 +.esdvxexsrsxeuhe.xyz
 +.esearch.youjizz.com
-+.esearchvision.com
 +.esecure.io
++.esei.com
 +.esellerpro.com
 +.eserviceparts.info
 +.esganalytics.shinyapps.io
@@ -35181,7 +35182,6 @@
 +.fam8.net
 +.famad.com
 +.famatty.com
-+.fame360dubai.com
 +.fameflip.club
 +.fameonyou.asia
 +.famgeoatsv2.prod.media.g03.yahoodns.net
@@ -35818,6 +35818,7 @@
 +.fi11cc111.com
 +.fi11cc112.com
 +.fi11cc120.com
++.fi8q177.cloudfront.net
 +.fiaboise.org
 +.fiadelity.com
 +.fiammastudios.com
@@ -35951,6 +35952,7 @@
 +.filtrationworld.com
 +.filumbehest.com
 +.fin.ovh
++.finadsjssdk.vivoglobal.com
 +.finalblogger.com
 +.finalclearancehub.com
 +.finalenydotyammtrack.appspot.com
@@ -42744,6 +42746,7 @@
 +.hfpynjruktrg.com
 +.hfrmp.link
 +.hfselwncfohitnt.com
++.hfsmy.heytapimage.com
 +.hftbsndabykstnylds.shop
 +.hftxbq.top
 +.hfvillagefood.com
@@ -43716,7 +43719,6 @@
 +.hothomefuck.com
 +.hotivl.com
 +.hotjar.com
-+.hotjar.dualsidedapp.com
 +.hotjar.io
 +.hotjaranalytics.com
 +.hotkabachok.com
@@ -48718,6 +48720,7 @@
 +.jlvufyv.cn
 +.jlvvv.com
 +.jlxsgk.com
++.jmahotjar.dualsidedapp.com
 +.jmarcanada.com
 +.jmarksinternational.com
 +.jmbelectricllc.com
@@ -58600,6 +58603,7 @@
 +.metlifeglobal.tt.omtrdc.net
 +.metlifeinvests.com
 +.metogency.com
++.metok.sys.miubzz.live
 +.metok.sys.miui.com
 +.metomask.me
 +.metouka.com
@@ -63002,7 +63006,6 @@
 +.news.com.au.ssl.sc.omtrdc.net
 +.news.cpbj.com
 +.news.dailyreporter.com
-+.news.djcoregon.com
 +.news.financecommerce.com
 +.news.jennydanny.com
 +.news.masslawyersweekly.com

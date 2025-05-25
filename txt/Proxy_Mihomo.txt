@@ -10756,7 +10756,6 @@
 +.jsatmobile.com
 +.jsbridgestone.com
 +.jsdelivr.com
-+.jsdelivr.net
 +.jshell.net
 +.jshint.com
 +.jstor.org
@@ -14200,7 +14199,6 @@
 +.outingsapp.com
 +.outletbeatsshop.com
 +.outletnike.com
-+.outlook.com
 +.over18arcade.com
 +.overapple.com
 +.overblog.com
