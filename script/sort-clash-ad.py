@@ -93,7 +93,7 @@ def is_invalid_line(line):
     """
     判断该行是否包含@符号（邮箱等无效域名）
     """
-    return '@@' in line
+    return '@' in line
 
 
 async def process_chunk(chunk):
