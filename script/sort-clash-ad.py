@@ -2,7 +2,7 @@ import sys
 import re
 import asyncio
 
-# 需要去除的国家结尾域名列表
+# 增加功能：定义需要去除的国家结尾顶级域名
 REMOVE_TLD = {
     # 亚洲
     ".jp", ".kr", ".in", ".id", ".th", ".sg", ".my", ".ph", ".vn",
@@ -30,6 +30,7 @@ REMOVE_TLD = {
     ".ye", ".kw", ".bh"
 }
 
+
 def clean_line(line):
     """
     清理行中的无意义字符（包括空格、引号、特殊符号）
@@ -49,7 +50,7 @@ def extract_domain(line):
     """
     line = clean_line(line.strip())
     if not line or line.startswith((
-        "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!", "/", "【", "】", "@", "[", "]"
+        "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,", "#", "!", "/", "【", "】", "[", "]"
     )):
         return None
 
@@ -68,27 +69,32 @@ def extract_domain(line):
     else:
         return None
 
-def filter_remove_tld(domains):
+
+def is_remove_tld(domain):
     """
-    过滤掉以指定国家结尾的域名
-    例如：xxx.jp 会被去除，但 xxx.jphj 不会被去除
+    判断域名是否以需要去除的国家结尾顶级域名结尾
+    例如：abc.jp会被去除，abc.jphj不会被去除
     """
-    result = set()
-    for domain in domains:
-        for tld in REMOVE_TLD:
-            if domain.endswith(tld):
-                # 必须严格以 .tld 结尾，且前面为主域或子域
-                # 确保不是 xx.jphj 这种
-                if len(domain) > len(tld) and domain[-len(tld)-1] == '.':
-                    break
-                if domain.endswith(tld) and (domain == tld[1:] or domain.endswith(tld)):
-                    break
-                # 如果直接就是如 jp 这种不带点的也排除
-                if domain == tld.lstrip('.'):
-                    break
-        else:
-            result.add(domain)
-    return result
+    for tld in REMOVE_TLD:
+        if domain.endswith(tld):
+            # 必须保证是完整的TLD结尾，例如abc.jp，不能是abc.jphj
+            if len(domain) > len(tld) and domain[-len(tld)-1] == '.':
+                return True
+            # 直接等于TLD本身也去除（极少数情况）
+            if domain == tld.lstrip('.'):
+                return True
+            # 兼容只剩下TLD的情况
+        elif domain == tld.lstrip('.'):
+            return True
+    return False
+
+
+def is_invalid_line(line):
+    """
+    判断该行是否包含@符号（邮箱等无效域名）
+    """
+    return '@@' in line
+
 
 async def process_chunk(chunk):
     """
@@ -96,8 +102,12 @@ async def process_chunk(chunk):
     """
     domains = set()
     for line in chunk:
+        if is_invalid_line(line):
+            continue  # 如果含有@，直接跳过
         domain = extract_domain(line)
         if domain:
+            if is_remove_tld(domain):
+                continue  # 如果是指定TLD结尾，跳过
             domains.add(domain)
     return domains
 
@@ -142,9 +152,6 @@ async def main():
 
     # 移除子域名，保留父域名
     filtered_domains = remove_subdomains(domains)
-
-    # 新增：去除指定国家结尾域名
-    filtered_domains = filter_remove_tld(filtered_domains)
 
     # 排序规则：按父域名和子域名排序
     sorted_domains = sorted(filtered_domains)
