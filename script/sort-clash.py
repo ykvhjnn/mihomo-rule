@@ -4,9 +4,9 @@ import asyncio
 # 域名后缀黑名单
 REMOVE_END = [
     "jsdelivr.net",
+    "jsdelivr.com,"
     "outlook.com",
-    "gh-proxy.com",
-    "live.com"
+    "gh-proxy.com"
 ]
 
 # 行内容黑名单关键词，含有这些内容的行将被忽略
