@@ -1,10 +1,12 @@
 import sys
 import asyncio
 
-# 域名后缀黑名单：只去除以 jsdelivr.net 或 outlook.com 结尾的域名
+# 域名后缀黑名单
 REMOVE_END = [
     "jsdelivr.net",
-    "outlook.com"
+    "outlook.com",
+    "gh-proxy.com",
+    "live.com"
 ]
 
 # 行内容黑名单关键词，含有这些内容的行将被忽略
