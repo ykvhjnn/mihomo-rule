@@ -4,7 +4,7 @@ import asyncio
 # 域名后缀黑名单
 REMOVE_END = [
     "jsdelivr.net",
-    "jsdelivr.com,"
+    "jsdelivr.com",
     "outlook.com",
     "gh-proxy.com"
 ]
