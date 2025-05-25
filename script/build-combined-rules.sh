@@ -14,7 +14,7 @@ error() {
 
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
-    [Ad]="sort-adblock.py
+    [Ad]="sort-clash.py
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
         https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
