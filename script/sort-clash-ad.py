@@ -2,8 +2,8 @@ import sys
 import re
 import asyncio
 
-# 增加功能：定义需要去除的国家结尾顶级域名
-REMOVE_TLD = {
+# 增加REMOVE_END集合
+REMOVE_END = {
     # 亚洲
     ".jp", ".kr", ".in", ".id", ".th", ".sg", ".my", ".ph", ".vn",
     ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
@@ -54,6 +54,9 @@ def extract_domain(line):
     )):
         return None
 
+    if "@@" in line:  # 增加对含有@@行的过滤
+        return None
+
     if line.startswith("DOMAIN,"):
         return line[7:]
     elif line.startswith("DOMAIN-SUFFIX,"):
@@ -70,30 +73,14 @@ def extract_domain(line):
         return None
 
 
-def is_remove_tld(domain):
+def domain_should_remove(domain):
     """
-    判断域名是否以需要去除的国家结尾顶级域名结尾
-    例如：abc.jp会被去除，abc.jphj不会被去除
+    检查域名是否应被REMOVE_END规则去除
     """
-    for tld in REMOVE_TLD:
-        if domain.endswith(tld):
-            # 必须保证是完整的TLD结尾，例如abc.jp，不能是abc.jphj
-            if len(domain) > len(tld) and domain[-len(tld)-1] == '.':
-                return True
-            # 直接等于TLD本身也去除（极少数情况）
-            if domain == tld.lstrip('.'):
-                return True
-            # 兼容只剩下TLD的情况
-        elif domain == tld.lstrip('.'):
+    for suffix in REMOVE_END:
+        if domain.endswith(suffix):
             return True
     return False
-
-
-def is_invalid_line(line):
-    """
-    判断该行是否包含@符号（邮箱等无效域名）
-    """
-    return '@@' in line
 
 
 async def process_chunk(chunk):
@@ -102,13 +89,11 @@ async def process_chunk(chunk):
     """
     domains = set()
     for line in chunk:
-        if is_invalid_line(line):
-            continue  # 如果含有@，直接跳过
         domain = extract_domain(line)
         if domain:
-            if is_remove_tld(domain):
-                continue  # 如果是指定TLD结尾，跳过
-            domains.add(domain)
+            # 增加尾缀过滤
+            if not domain_should_remove(domain):
+                domains.add(domain)
     return domains
 
 
