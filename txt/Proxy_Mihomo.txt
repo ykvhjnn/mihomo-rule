@@ -559,7 +559,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1512,7 +1511,6 @@
 +.appleantilles.com
 +.appleappstore.net
 +.appleappstore.tv
-+.appleaustralgpaocanada.com
 +.appleaustralia.com
 +.applebk.net
 +.applecarbon.com
@@ -2279,7 +2277,6 @@
 +.bagglasses1.com
 +.bai29.xyz
 +.baicaonetwork.com
-+.baicaonhpwsn.com
 +.baijie.org
 +.bailandaily.com
 +.baixing.me
@@ -3608,6 +3605,7 @@
 +.burstly.net
 +.burstlyrewards.com
 +.busayari.com
++.busi+.aaa
 +.business.site
 +.businesscatalyst.com
 +.businesshumanrights.org
@@ -6378,7 +6376,6 @@
 +.etviet.com
 +.etvonline.hk
 +.etwealth.com
-+.etwork.com
 +.eu
 +.eu.org
 +.eubluecardvisa.com
@@ -9604,6 +9601,8 @@
 +.ibeatsuk.com
 +.ibiblio.org
 +.ibkr.com
++.ibkr.com.hk
++.ibkrguides.com
 +.iblist.com
 +.ibllc.com
 +.iblogservf.net
@@ -12712,6 +12711,7 @@
 +.mql5.com
 +.mqxd.org
 +.mr
++.mradx.net
 +.mray.club
 +.mrbasic.com
 +.mrbdsm.com
@@ -15996,6 +15996,7 @@
 +.rosechina.net
 +.rosemarydoll.com
 +.roshy.tv
++.rostaxi.org
 +.rotten.com
 +.rou.video
 +.roucdn.link
@@ -20751,7 +20752,12 @@
 +.yandex.jobs
 +.yandex.net
 +.yandex.org
++.yandexadexchange.net
++.yandexbank.net
 +.yandexcloud.net
++.yandexcom.net
++.yandeximages.clstorage.net
++.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
 +.yantaqu.com
