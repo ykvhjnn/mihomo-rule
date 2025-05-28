@@ -10426,7 +10426,6 @@
 +.apishowstats.babybus.com
 +.apistg.ensonhaber.com
 +.apitd.net
-+.apitelegram.email
 +.apitelemetry.prod.k8s.onepeloton.com
 +.apitelemetry.servers.getgo.com
 +.apitiktok.xyz
@@ -12113,7 +12112,6 @@
 +.atualizacaochave.life
 +.atualizacaochavee.shop
 +.atualizadados.shop
-+.atualizafaturanet.email
 +.atualizarchave.life
 +.atualizarchavex.com
 +.atualizarfaturanet.com
@@ -12505,7 +12503,6 @@
 +.australiposts.shop
 +.austrialiiapost.shop
 +.austrrliaposts.shop
-+.ausupost.email
 +.ausupostro.mom
 +.ausxrcz.top
 +.autchoog.net
@@ -28972,6 +28969,7 @@
 +.duncanville.com
 +.dunderaffiliates.com
 +.dunebuggydubaitours.com
++.dunhilltraveldeals.com
 +.duniadekho.bar
 +.duniajaringsafety.com
 +.dunlopmill.org
@@ -30134,6 +30132,7 @@
 +.em.thermofisher.com
 +.emaarpropty.com
 +.emadex.org
++.email
 +.email.hockeytown.com
 +.emailap.joneslanglasalle.com.cn
 +.emailcm.joneslanglasalle.com.cn
@@ -33093,7 +33092,6 @@
 +.fattyliverattack9k9w5o1o1e3.sbs
 +.fattylivertcm8c.click
 +.fatura.tech
-+.fatura2.email
 +.faturacredcaird.sbs
 +.faturatahsilati.net
 +.fatureemcasa.com
@@ -34674,7 +34672,6 @@
 +.formspire.online
 +.formspoke.online
 +.formthread.online
-+.formtiktok.email
 +.formtrail.online
 +.formulaonedigitalmedia.germany2.evergage.com
 +.formulirbantuan.xyz
@@ -37152,7 +37149,6 @@
 +.gmjzmwcxhonly.rocks
 +.gmkm3u.cn
 +.gmkocgsqewiqyqme.xyz
-+.gml.email
 +.gmlgrp.com
 +.gmlsoftlabs.com
 +.gmlusr.com
@@ -51718,7 +51714,6 @@
 +.ltpostad.org
 +.ltpqsnu.biz
 +.ltr155polistr.online
-+.ltraveldeals.com
 +.ltrkctsuao.com
 +.ltsavbilgitr.sbs
 +.ltsxrqnn.com
@@ -52376,7 +52371,6 @@
 +.mailsru.sbs
 +.mailsupport.pro
 +.mailsupportgoogle.com
-+.mailtiktok.email
 +.mailtrack.4pax.com
 +.mailtrack.io
 +.mailtrack.me
@@ -54129,7 +54123,6 @@
 +.mentalselfcare.com
 +.mentionexciteddemocracy.com
 +.mentionideablit.com
-+.mentionme.email
 +.mentoracademypro.com
 +.mentorship.one
 +.mentorsticks.com
@@ -55726,7 +55719,6 @@
 +.modoro360.com
 +.modosa.net
 +.modproz.run
-+.mods.email
 +.modtimea.run
 +.modubridge.store
 +.moducast.online
@@ -57064,7 +57056,6 @@
 +.mybox.website
 +.mybpost.help
 +.mybrowserbar.com
-+.mybt.email
 +.mybtlogin.com
 +.mybtonline.com
 +.mybuvuflxtwf.com
@@ -59117,7 +59108,6 @@
 +.noticelive.online
 +.noticemygov.com
 +.notices.rei.com
-+.noticetiktok.email
 +.noticias.anotao.com
 +.notie.agency
 +.notifadz.com
@@ -61025,7 +61015,6 @@
 +.omessec.heytapmobi.com
 +.omessec.heytapmobile.com
 +.ometria.com
-+.ometria.email
 +.omfsoehd.top
 +.omgeyta.life
 +.omgid.qq.com
@@ -69138,7 +69127,6 @@
 +.realsunet.com
 +.realtechnetwork.com
 +.realtime.ably.io
-+.realtime.email
 +.realtime.pa.highwebmedia.com
 +.realtime.services.disqus.com
 +.realtimeactionissueactivities.top
@@ -73295,7 +73283,6 @@
 +.sellpoints.com
 +.sellrashmm.com
 +.sellretail.xyz
-+.sellspirev.com
 +.sellupcorelab.com
 +.sellupnodepath.com
 +.sellwild.com
@@ -73344,7 +73331,6 @@
 +.sendjb.sbs
 +.sendlane.com
 +.sendori.com
-+.sendpulse.email
 +.sendripple.today
 +.sendsmtp.com
 +.sendsyncdrive.top
@@ -75352,6 +75338,7 @@
 +.sizleringuvendigi18.space
 +.sizlerinsectigiurunlerkampanyalarda.xyz
 +.sizlerinsevdigisectigiurunlersepette.xyz
++.sizlerleberaberizherzaman.shop
 +.sizlerlefirsatlarkacinilmaz.xyz
 +.sizlerleolansiparisler.online
 +.sizmek.com
@@ -78068,7 +78055,6 @@
 +.stat.duokanbox.com
 +.stat.ea3w.com
 +.stat.elstraffic.com
-+.stat.email
 +.stat.ezekielflores.com
 +.stat.fengniao.com
 +.stat.funshion.com
@@ -80394,12 +80380,6 @@
 +.t.singular.net
 +.t.sj.qq.com
 +.t.skimresources.com
-+.t.strk01.email
-+.t.strk02.email
-+.t.strk03.email
-+.t.strk04.email
-+.t.strk08.email
-+.t.strk11.email
 +.t.texaslonghorns.com
 +.t.thepennyhoarder.com
 +.t.tnafpt.com
@@ -81171,7 +81151,6 @@
 +.teamsgearbeat.pro
 +.teamslive.top
 +.teamsmicrosoff.com
-+.teamsmicrosoft.email
 +.teamsmicrosoft365.com
 +.teamsmicrosoftinvite.com
 +.teamt.com
@@ -83599,7 +83578,6 @@
 +.tlnk.io
 +.tlog.24123.catapultweboffice.com
 +.tlog.sgmarkets.com
-+.tlr.stripocdn.email
 +.tlres.com
 +.tltxn.biz
 +.tluqt.info
@@ -89228,7 +89206,6 @@
 +.vdo.ai
 +.vdopia.com
 +.veachy.com
-+.vecall.com
 +.vechershow.online
 +.vectaury.io
 +.vectorecho.cfd
@@ -89413,7 +89390,6 @@
 +.verifyconnect.com
 +.verifyetrade.com
 +.verifyjp.cards
-+.verifylive.email
 +.verifyma.cards
 +.verifyma.link
 +.verifymailtiktok.com
@@ -89760,6 +89736,7 @@
 +.videohype.net
 +.videojj.com
 +.videolink.host
++.videolivecall.com
 +.videolivechat.info
 +.videomate.mobi
 +.videoplayerhub.com

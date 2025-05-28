@@ -1312,7 +1312,6 @@
 +.aphongkong.tencentcos.cn
 +.aphongkong.tencentcos.com
 +.aphongkong.tencentcos.com.cn
-+.api.bilibili.com
 +.api.mixpanel.com
 +.api.nebulaemby.com
 +.api.news
