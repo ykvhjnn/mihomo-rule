@@ -1,3 +1,5 @@
++.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
++.0.inaddr.arpa
 +.0.zone
 +.00.net
 +.000.link
@@ -969,7 +971,11 @@
 +.0xsky.com
 +.0xue.com
 +.0z.gs
++.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.1.cc
++.10.inaddr.arpa
++.100.100.inaddr.arpa
++.100.51.198.inaddr.arpa
 +.100.com
 +.100.me
 +.100.travel
@@ -1117,6 +1123,7 @@
 +.100zhuang.com
 +.100zhuoyue.com
 +.100zp.com
++.101.100.inaddr.arpa
 +.101.com
 +.10100.com
 +.10100000.com
@@ -1136,6 +1143,7 @@
 +.101jiajiao.com
 +.101nr.com
 +.101weiqi.com
++.102.100.inaddr.arpa
 +.1024.ink
 +.1024fuli.com
 +.1024g.com
@@ -1150,21 +1158,27 @@
 +.1028images.com
 +.102no.com
 +.102pay.com
++.103.100.inaddr.arpa
 +.103153.com
 +.1032.com
 +.10333.com
 +.10349.com
++.104.100.inaddr.arpa
 +.10419.net
++.105.100.inaddr.arpa
 +.1050qm.com
 +.105mr.com
++.106.100.inaddr.arpa
 +.106.com
 +.10639888.com
 +.1065m.com
 +.10666114.net
 +.1066888.com
 +.10678.net
++.107.100.inaddr.arpa
 +.1073.com
 +.107788.com
++.108.100.inaddr.arpa
 +.1088hg41.com
 +.108ai.com
 +.108mir.com
@@ -1172,6 +1186,7 @@
 +.108qi.com
 +.108sq.com
 +.108tian.com
++.109.100.inaddr.arpa
 +.109.com
 +.109360.com
 +.10966.net
@@ -1201,6 +1216,7 @@
 +.10vps.com
 +.10xiang.net
 +.10yan.com
++.110.100.inaddr.arpa
 +.110.com
 +.11000011.com
 +.110160.com
@@ -1210,6 +1226,7 @@
 +.110hack.com
 +.110route.com
 +.110tm.com
++.111.100.inaddr.arpa
 +.111.com
 +.11111.hk
 +.111111111.com
@@ -1230,6 +1247,7 @@
 +.111wo.com
 +.111yao.com
 +.111zyw.com
++.112.100.inaddr.arpa
 +.112112.com
 +.112192.com
 +.1122.com
@@ -1239,12 +1257,15 @@
 +.1128job.com
 +.112seo.com
 +.112wan.com
++.113.0.203.inaddr.arpa
++.113.100.inaddr.arpa
 +.11315.com
 +.1133.cc
 +.11343.com
 +.113989.com
 +.113dh.com
 +.113ya.com
++.114.100.inaddr.arpa
 +.1140086.com
 +.1145858.com
 +.11467.com
@@ -1290,6 +1311,7 @@
 +.114zhibo.com
 +.114zpw.com
 +.114zw.org
++.115.100.inaddr.arpa
 +.115.com
 +.11504.cc
 +.1156.com
@@ -1302,6 +1324,7 @@
 +.115seo.com
 +.115vod.com
 +.115zb.com
++.116.100.inaddr.arpa
 +.1163.com
 +.1166.com
 +.1168.tv
@@ -1312,9 +1335,11 @@
 +.116daohang.com
 +.116kj.com
 +.116yx.com
++.117.100.inaddr.arpa
 +.117915.com
 +.117trip.com
 +.117y.com
++.118.100.inaddr.arpa
 +.1181.com
 +.118114.net
 +.118360.com
@@ -1328,6 +1353,7 @@
 +.118study.com
 +.118ttc.com
 +.118wa.com
++.119.100.inaddr.arpa
 +.1190119.com
 +.119120.org
 +.119474.xyz
@@ -1365,6 +1391,7 @@
 +.11yinyuan.com
 +.11zhang.com
 +.11ziyun.com
++.120.100.inaddr.arpa
 +.120.net
 +.1204cm.com
 +.120918.com
@@ -1388,6 +1415,7 @@
 +.120sun.com
 +.120top.com
 +.120x.net
++.121.100.inaddr.arpa
 +.121121.net
 +.12114job.com
 +.12114rc.com
@@ -1400,6 +1428,7 @@
 +.121mai.com
 +.121mu.com
 +.121wty.com
++.122.100.inaddr.arpa
 +.122521.com
 +.12272.vip
 +.12291.com
@@ -1407,6 +1436,7 @@
 +.122cha.com
 +.122cn.net
 +.122law.com
++.123.100.inaddr.arpa
 +.123.cc
 +.12301.cc
 +.1230539.com
@@ -1519,7 +1549,9 @@
 +.123yiche.com
 +.123ypw.com
 +.123yx.com
++.124.100.inaddr.arpa
 +.124866.xyz
++.125.100.inaddr.arpa
 +.125.la
 +.125180.com
 +.12530.com
@@ -1536,6 +1568,7 @@
 +.125visa.com
 +.125y.com
 +.125yan.com
++.126.100.inaddr.arpa
 +.126.am
 +.126.com
 +.126.fm
@@ -1547,7 +1580,9 @@
 +.126g.com
 +.126job.net
 +.126qiye.com
++.127.100.inaddr.arpa
 +.127.com
++.127.inaddr.arpa
 +.127.net
 +.1278721.com
 +.127xx.com
@@ -1785,6 +1820,7 @@
 +.15xdd.com
 +.15yl.com
 +.15yunmall.com
++.16.172.inaddr.arpa
 +.160.com
 +.160.me
 +.160dyf.com
@@ -1875,6 +1911,7 @@
 +.16757.com
 +.16768.com
 +.16789.net
++.168.192.inaddr.arpa
 +.16816.com
 +.168267xz.com
 +.168338.com
@@ -1962,6 +1999,7 @@
 +.16wl.cc
 +.16xx8.com
 +.16ye.com
++.17.172.inaddr.arpa
 +.17.com
 +.170.com
 +.170066.com
@@ -2282,6 +2320,7 @@
 +.17zwd.com
 +.17zyxy.com
 +.17zyxy.net
++.18.172.inaddr.arpa
 +.18.cm
 +.18000000001.com
 +.1800zz.com
@@ -2394,6 +2433,7 @@
 +.18zn.com
 +.18zp.com
 +.18zw.com
++.19.172.inaddr.arpa
 +.19.com
 +.190.vip
 +.1900.live
@@ -2708,7 +2748,9 @@
 +.1zr.com
 +.1zu.com
 +.1zw.com
++.2.0.192.inaddr.arpa
 +.2.biz
++.20.172.inaddr.arpa
 +.20001104.com
 +.2000200.com
 +.2000211.com
@@ -2787,6 +2829,7 @@
 +.20xue.com
 +.20yy.com
 +.20z.com
++.21.172.inaddr.arpa
 +.210189.com
 +.210997.com
 +.210z.com
@@ -2931,6 +2974,7 @@
 +.21ytv.com
 +.21yunwei.com
 +.21zbs.com
++.22.172.inaddr.arpa
 +.22.com
 +.220840.com
 +.220c.com
@@ -3002,6 +3046,7 @@
 +.22vape.com
 +.22vd.com
 +.22zw.com
++.23.172.inaddr.arpa
 +.2300sjz.com
 +.230890.com
 +.231083.com
@@ -3094,6 +3139,7 @@
 +.23ye.com
 +.23yy.com
 +.23zw.com
++.24.172.inaddr.arpa
 +.240yx.com
 +.246546.com
 +.246ys.com
@@ -3119,6 +3165,7 @@
 +.24timemap.com
 +.24u7tos.com
 +.24zbw.com
++.25.172.inaddr.arpa
 +.250.cc
 +.2500.tv
 +.25000li.com
@@ -3135,9 +3182,11 @@
 +.25395.vip
 +.253952.com
 +.253u.com
++.254.169.inaddr.arpa
 +.2541.com
 +.254254.com
 +.254game.com
++.255.255.255.255.inaddr.arpa
 +.255400.com
 +.255616.com
 +.255star.com
@@ -3176,6 +3225,7 @@
 +.25xz.com
 +.25yi.com
 +.25yz.com
++.26.172.inaddr.arpa
 +.260.net
 +.260068.com
 +.2628liao.com
@@ -3198,6 +3248,7 @@
 +.264006.com
 +.264321.com
 +.264400.com
++.265.com
 +.26582.vip
 +.26595.com
 +.265g.com
@@ -3222,6 +3273,7 @@
 +.26ks.cc
 +.26s.com
 +.26youxi.com
++.27.172.inaddr.arpa
 +.270che.com
 +.270top.com
 +.27195.vip
@@ -3252,6 +3304,7 @@
 +.27ws.com
 +.27xuexiao.com
 +.27ying.com
++.28.172.inaddr.arpa
 +.28.com
 +.281010.com
 +.28123.com
@@ -3288,6 +3341,7 @@
 +.28yt.com
 +.28z9.com
 +.28zhe.com
++.29.172.inaddr.arpa
 +.29029.com
 +.2903866.net
 +.291315.com
@@ -3443,6 +3497,7 @@
 +.2zimu.com
 +.2zzt.com
 +.3.biz
++.30.172.inaddr.arpa
 +.30.net
 +.3000.com
 +.300033.info
@@ -3487,6 +3542,7 @@
 +.30sche.com
 +.30thfeb.com
 +.30w.co
++.31.172.inaddr.arpa
 +.310game.com
 +.310s2520.com
 +.310tv.com
@@ -4467,6 +4523,7 @@
 +.3gogogo.com
 +.3gosc.com
 +.3gpk.net
++.3gppnetwork.org
 +.3gqqw.com
 +.3gsdxu.com
 +.3gsou.com
@@ -4700,7 +4757,8 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404:NotFound404:NotFound265.com
++.404:NotFoundadguardteam.github.io
++.404:NotFoundcn.bing.com
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -7108,6 +7166,7 @@
 +.63u.net
 +.63yx.com
 +.63yy.com
++.64.100.inaddr.arpa
 +.640640.com
 +.64090909.com
 +.641.com
@@ -7133,6 +7192,7 @@
 +.64ma.com
 +.64mv.com
 +.64pay.com
++.65.100.inaddr.arpa
 +.6501111.com
 +.650y.com
 +.65119.com
@@ -7154,6 +7214,7 @@
 +.65993zubo26633.com
 +.65liuxue.com
 +.65mhxy.com
++.66.100.inaddr.arpa
 +.6600.org
 +.660378.com
 +.66083797.com
@@ -7286,6 +7347,7 @@
 +.66zhang.com
 +.66zhizu.com
 +.66zhuang.com
++.67.100.inaddr.arpa
 +.67.com
 +.67017.com
 +.6711.com
@@ -7324,6 +7386,7 @@
 +.67wx.com
 +.67y.com
 +.67yes.com
++.68.100.inaddr.arpa
 +.68.com
 +.68.vip
 +.680.com
@@ -7375,6 +7438,7 @@
 +.68yscw.com
 +.68zhan.net
 +.68zixun.com
++.69.100.inaddr.arpa
 +.69.com
 +.69090.com
 +.6915x.com
@@ -7531,6 +7595,7 @@
 +.6ziz.com
 +.6zu.com
 +.7.biz
++.70.100.inaddr.arpa
 +.70.com
 +.700618.com
 +.70098.com
@@ -7562,6 +7627,7 @@
 +.70soft.com
 +.70ym.com
 +.70yx.com
++.71.100.inaddr.arpa
 +.71.am
 +.71.am.com
 +.71.net
@@ -7617,6 +7683,7 @@
 +.71wx.net
 +.71xe.com
 +.71xk.com
++.72.100.inaddr.arpa
 +.72.com
 +.72017.net
 +.720582.com
@@ -7672,6 +7739,7 @@
 +.72yce.com
 +.72yun.com
 +.72zhan.com
++.73.100.inaddr.arpa
 +.731.tv
 +.73110010.com
 +.7319n.com
@@ -7690,6 +7758,7 @@
 +.73card.com
 +.73so.com
 +.73zw8.com
++.74.100.inaddr.arpa
 +.74.com
 +.7415.com
 +.7428.net
@@ -7706,6 +7775,7 @@
 +.74cms.com
 +.74dns.com
 +.74hao.com
++.75.100.inaddr.arpa
 +.75.team
 +.7508ss.cc
 +.75111.com
@@ -7730,6 +7800,7 @@
 +.75team.com
 +.75ww.com
 +.75xn.com
++.76.100.inaddr.arpa
 +.76065.com
 +.76107448.com
 +.7618.com
@@ -7764,6 +7835,7 @@
 +.76s.co
 +.76y.com
 +.76zu.com
++.77.100.inaddr.arpa
 +.77005163.xyz
 +.770539.com
 +.7711.com
@@ -7856,6 +7928,7 @@
 +.77zhangh.com
 +.77zhanghao.com
 +.77zn.com
++.78.100.inaddr.arpa
 +.78.link
 +.781203.com
 +.782yx.com
@@ -7891,6 +7964,7 @@
 +.78v.com
 +.78yx.net
 +.78zw.com
++.79.100.inaddr.arpa
 +.79.com
 +.7914.cc
 +.7927n.com
@@ -8080,6 +8154,9 @@
 +.7zm.com
 +.7zz6.com
 +.7zzy.com
++.8.b.d.0.1.0.0.2.ip6.arpa
++.8.e.f.ip6.arpa
++.80.100.inaddr.arpa
 +.80.com
 +.80.hk
 +.80000.cc
@@ -8184,6 +8261,7 @@
 +.80xs.la
 +.80ym.com
 +.80zw.info
++.81.100.inaddr.arpa
 +.810840.com
 +.811sisp.com
 +.81257.com
@@ -8241,6 +8319,7 @@
 +.81zw.com
 +.81zw.in
 +.81zw.la
++.82.100.inaddr.arpa
 +.8203app.com
 +.8211.com
 +.82137777.com
@@ -8269,6 +8348,7 @@
 +.82ky.com
 +.82l.net
 +.82pk.com
++.83.100.inaddr.arpa
 +.830777.com
 +.831289.com
 +.83133.com
@@ -8305,6 +8385,7 @@
 +.83h87d.com
 +.83kxs.com
 +.83x.cc
++.84.100.inaddr.arpa
 +.84.com
 +.84.vc
 +.84008.com
@@ -8330,6 +8411,7 @@
 +.84ktv.com
 +.84ny.com
 +.84zcb.com
++.85.100.inaddr.arpa
 +.850500.com
 +.850718.xyz
 +.8521.org
@@ -8353,6 +8435,7 @@
 +.85un.com
 +.85wp.com
 +.85xt.com
++.86.100.inaddr.arpa
 +.86.cc
 +.860029.com
 +.86030.bid
@@ -8437,6 +8520,7 @@
 +.86xq.com
 +.86y.org
 +.86yqy.com
++.87.100.inaddr.arpa
 +.870.com
 +.87050.com
 +.870818.com
@@ -8466,6 +8550,7 @@
 +.87pk.com
 +.87vr.com
 +.87yy.com
++.88.100.inaddr.arpa
 +.88.com
 +.880.net
 +.8800.org
@@ -8602,6 +8687,7 @@
 +.88z.com
 +.88zha.com
 +.88zjzy.com
++.89.100.inaddr.arpa
 +.89006006.com
 +.890360.com
 +.8910.io
@@ -8755,6 +8841,8 @@
 +.8zntx.com
 +.8zy.com
 +.9.biz
++.9.e.f.ip6.arpa
++.90.100.inaddr.arpa
 +.900.la
 +.900.vc
 +.9000wy.com
@@ -8787,6 +8875,7 @@
 +.90yang.com
 +.90yk.com
 +.90zm.net
++.91.100.inaddr.arpa
 +.91.com
 +.91.plus
 +.9100.ink
@@ -9044,6 +9133,7 @@
 +.91zhuti.com
 +.91znyx.com
 +.91zxw.com
++.92.100.inaddr.arpa
 +.92.net
 +.920uc.com
 +.921.com
@@ -9114,6 +9204,7 @@
 +.92zc.com
 +.92zhiqu.com
 +.92zuqu.com
++.93.100.inaddr.arpa
 +.930hh.com
 +.9312.net
 +.93135.com
@@ -9171,6 +9262,7 @@
 +.93you.com
 +.93zp.com
 +.93zw.com
++.94.100.inaddr.arpa
 +.94001.com
 +.94001.vip
 +.940177.com
@@ -9212,6 +9304,7 @@
 +.94xy.com
 +.94you.net
 +.94ys.com
++.95.100.inaddr.arpa
 +.95.com
 +.95001111.com
 +.95007.com
@@ -9295,6 +9388,7 @@
 +.95ye.com
 +.95yijing.com
 +.95zh.com
++.96.100.inaddr.arpa
 +.96005656.com
 +.960123.com
 +.960638.com
@@ -9385,6 +9479,7 @@
 +.96weixin.com
 +.96yx.com
 +.96zxue.com
++.97.100.inaddr.arpa
 +.9700hg.com
 +.970mhz.com
 +.9718.com
@@ -9432,6 +9527,7 @@
 +.97wyw.com
 +.97xdj.net
 +.97zm.com
++.98.100.inaddr.arpa
 +.98.com
 +.98.ma
 +.9800.com
@@ -9494,6 +9590,7 @@
 +.98zhibo.com
 +.98znz.com
 +.98zw.com
++.99.100.inaddr.arpa
 +.99.com
 +.99069292.com
 +.99114.com
@@ -9861,6 +9958,7 @@
 +.9zjob.com
 +.9znet.com
 +.9zx.com
++.a.e.f.ip6.arpa
 +.a0318.com
 +.a0598.com
 +.a0770.com
@@ -10184,6 +10282,7 @@
 +.acirno.com
 +.acjw.net
 +.ackjled.com
++.acl4.ssr
 +.aclife.net
 +.acloud.com
 +.acloudbaas.com
@@ -11690,7 +11789,6 @@
 +.aliapp.org
 +.aliappcdn.com
 +.aliappinc.com
-+.alibaba.cdn.steampipe.steamcontent.com
 +.alibaba.com
 +.alibaba.net
 +.alibabacapital.com
@@ -12538,6 +12636,7 @@
 +.antfortune.com
 +.antgroup.com
 +.antgv.com
++.antiad.net
 +.antibanads.com
 +.antibodychina.com
 +.anticheatexpert.com
@@ -12868,6 +12967,7 @@
 +.apiforwards.com
 +.apifox.com
 +.apigwtencent.com
++.apijooxtt.sanook.com
 +.apilyzy.com
 +.apim.com
 +.apim.work
@@ -13496,6 +13596,7 @@
 +.astrostanleystudio.com
 +.asuidnfamun.com
 +.asurada.zone
++.asusrouter.com
 +.asussh.com
 +.asussmart.com
 +.asusw.net
@@ -14084,6 +14185,7 @@
 +.azz.net
 +.azzdm.com
 +.b.biz
++.b.e.f.ip6.arpa
 +.b01.net
 +.b08.com
 +.b1bj.com
@@ -15044,6 +15146,7 @@
 +.batterydir.com
 +.batteryexpo.com
 +.batterykey.com
++.battle.net
 +.battlecare.net
 +.battlefsd.com
 +.battleofballs.com
@@ -17734,6 +17837,7 @@
 +.boanits.com
 +.boaoforum.org
 +.boaovm.com
++.board.zash.run.place
 +.bob.com
 +.bobai520.com
 +.bobaow.com
@@ -20485,6 +20589,7 @@
 +.cdn.fun
 +.cdn.globalsigncdn.com.cdn.cloudflare.net
 +.cdn.marketplaceimages.windowsphone.com
++.cdn.nintendo.net
 +.cdn.samsung.com
 +.cdn.shanghai.nyu.edu
 +.cdn.show
@@ -28520,6 +28625,8 @@
 +.czzzly.com
 +.d.cg
 +.d.design
++.d.f.ip6.arpa
++.d.metacubex.one
 +.d00.net
 +.d03jd.com
 +.d0efbrm.xyz
@@ -30888,6 +30995,7 @@
 +.dir001.com
 +.dir28.com
 +.dircashpromost.com
++.direct
 +.directui.com
 +.dis9.net
 +.discountedkwatch.com
@@ -30928,7 +31036,6 @@
 +.ditiem.com
 +.ditiezu.com
 +.ditiezu.net
-+.ditu.live.com
 +.dituhui.com
 +.dituwuyou.com
 +.dituyi.com
@@ -33709,6 +33816,7 @@
 +.edesson.com
 +.edfadesign.com
 +.edfni.xyz
++.edge.microsoft.com
 +.edgebyted.com
 +.edgefn.net
 +.edgegslb.com
@@ -35195,6 +35303,7 @@
 +.examda.com
 +.examebook.com
 +.examk.com
++.example
 +.exampx.com
 +.examw.com
 +.exands.com
@@ -36650,6 +36759,7 @@
 +.fftcc.com
 +.fftub.com
 +.ffwap.com
++.ffxiv.com
 +.ffxivhuntcn.com
 +.ffy.com
 +.ffyoo.com
@@ -36758,6 +36868,7 @@
 +.fimky.com
 +.fimmu.com
 +.finaleden.com
++.finalfantasyxiv.com
 +.finaltheory.me
 +.finance365.com
 +.financeun.com
@@ -47645,6 +47756,7 @@
 +.healzentx.com
 +.heanyo.com
 +.hearstchina.com
++.heartbeat.belkin.com
 +.heartgame.com
 +.heartide.com
 +.heartinsti.com
@@ -49904,6 +50016,7 @@
 +.holyfunny.com
 +.holymalls.com
 +.holyxiongan.com
++.home.arpa
 +.home.htcsense.com
 +.home0311.com
 +.home0538.com
@@ -55186,6 +55299,7 @@
 +.insta360.com
 +.instafogging.com
 +.installgreat.com
++.instant.arubanetworks.com
 +.instome.com
 +.insulatorschina.com
 +.insunchina.com
@@ -55217,6 +55331,7 @@
 +.intercredit.net
 +.interface003.com
 +.intergreat.com
++.internal
 +.internationalbrand.net
 +.internationalgfe.nvidia.com
 +.internbird.com
@@ -55252,6 +55367,7 @@
 +.inuorui.com
 +.inuu6.com
 +.inuyasha.love
++.invalid
 +.inveno.com
 +.inverter.so
 +.invescogreatwall.com
@@ -64300,6 +64416,7 @@
 +.lamuba.com
 +.lamwatch.com
 +.lamyu.com
++.lan
 +.lan1001.com
 +.lanall.com
 +.lanapartments.com
@@ -65355,6 +65472,7 @@
 +.lenovowap.com
 +.lenovows.com
 +.lenovozdl.com
++.lens.l.google.com
 +.lenschine.com
 +.lensuo.com
 +.lenwoo.com
@@ -66375,6 +66493,8 @@
 +.linkstars.com
 +.linkstec.com
 +.linksunet.com
++.linksys.com
++.linksyssmartwifi.com
 +.linktech.hk
 +.linktom.com
 +.linktom.net
@@ -66749,6 +66869,7 @@
 +.liuzongyang.com
 +.liuzy88.com
 +.livanauto.com
++.live.com
 +.live123.cc
 +.live800.com
 +.liveapp.ink
@@ -67195,6 +67316,10 @@
 +.loadingbay.com
 +.loan163.com
 +.loansliml.com
++.local
++.local.adguard.org
++.localdomain
++.localhost
 +.localip.online
 +.localizecdn.com
 +.locatran.com
@@ -69879,7 +70004,6 @@
 +.mcbeam.pro
 +.mcbiolab.com
 +.mcc0.com
-+.mcc460.pub.3gppnetwork.org
 +.mccbim.com
 +.mccchina.com
 +.mcccpit.com
@@ -70054,6 +70178,7 @@
 +.medebound.com
 +.medejob.com
 +.medeming.com
++.media.dssott.com
 +.mediastory.cc
 +.mediatek.com
 +.mediav.com
@@ -70594,6 +70719,8 @@
 +.met169.com
 +.meta.law
 +.metacd.com
++.metacubex.github.io
++.metacubexd.pages.dev
 +.metal.com
 +.metalchina.com
 +.metalmin.com
@@ -72432,6 +72559,8 @@
 +.msdprodad.download.prss.microsoft.com
 +.msecnd.net
 +.msfpay.com
++.msftconnecttest.com
++.msftncsi.com
 +.msftonlinelab.com
 +.msgamego.com
 +.msgcarry.com
@@ -72850,6 +72979,7 @@
 +.mxzzzs.com
 +.my.akamai.com
 +.my.dji.com
++.my.router
 +.my.st.com
 +.my0511.com
 +.my0511.net
@@ -73340,6 +73470,7 @@
 +.n802.com
 +.n8soft.com
 +.n9z.net
++.na.b.gtun.com
 +.na.ci
 +.na1r.com
 +.na2sib.com
@@ -74333,6 +74464,7 @@
 +.nfkos.com
 +.nflchina.com
 +.nflsxl.com
++.nflxvideo.net
 +.nfmedia.com
 +.nfmrtfv.com
 +.nfmz168.com
@@ -76129,8 +76261,16 @@
 +.ntmlxm.com
 +.ntmyexp.com
 +.ntneuro.org
++.ntp.*.com
 +.ntp.felixc.at
++.ntp1.*.com
 +.ntp123.com
++.ntp2.*.com
++.ntp3.*.com
++.ntp4.*.com
++.ntp5.*.com
++.ntp6.*.com
++.ntp7.*.com
 +.ntp8.com
 +.ntpcb.com
 +.ntpcn.com
@@ -77674,6 +77814,7 @@
 +.ozzyad.com
 +.p.biz
 +.p.cdn.persaas.dell.com
++.p.to
 +.p007fyt3.group
 +.p023.com
 +.p0371.com
@@ -78593,6 +78734,7 @@
 +.phfc.com
 +.phhongyu.com
 +.phicomm.com
++.phicomm.me
 +.philanthropy.xin
 +.philbay.net
 +.philipswechat.com
@@ -79383,6 +79525,7 @@
 +.pook.com
 +.pookcdn.com
 +.pooketools.com
++.pool.ntp.org
 +.poorren.com
 +.pop136.com
 +.pop365.com
@@ -79786,6 +79929,7 @@
 +.providencechemicals.com
 +.prowineshanghai.com
 +.proximabeta.com
++.proxy.golang.org
 +.proxyconfig.corp.google.com
 +.proya.com
 +.proyagroup.com
@@ -84399,8 +84543,11 @@
 +.rousin.com
 +.rousongs.com
 +.route78asia.com
++.router.asus.com
++.router.ctc
 +.router.tw
 +.routerclub.com
++.routerlogin.com
 +.routeryun.com
 +.routewize.com
 +.routuan.com
@@ -86933,6 +87080,7 @@
 +.setb2b.com
 +.setdg.net
 +.seteuid0.com
++.setmeup.arubanetworks.com
 +.setshop.vip
 +.seuic.com
 +.sevb.com
@@ -87595,6 +87743,7 @@
 +.sharexiang.com
 +.sharingclass.vip
 +.sharjahmadrasa.com
++.shark007.net
 +.sharkboatsibiza.com
 +.sharkselection.com
 +.sharkshopping.com
@@ -91677,6 +91826,7 @@
 +.sqsyy.com
 +.sqtest.lenovo.com
 +.squarecn.com
++.squareenix.com
 +.squarefong.com
 +.squirrelboiler.com
 +.sqwenhua.com
@@ -91724,6 +91874,7 @@
 +.srtljs.com
 +.srtong.com
 +.srun.com
++.srv.nintendo.net
 +.srvbus.com
 +.srw00.com
 +.srworld.net
@@ -92018,6 +92169,7 @@
 +.stat08.com
 +.stat18.com
 +.statertc.com
++.static.adtidy.org
 +.static.djicdn.com
 +.static.eprintsw.com
 +.static.gc.apple.com
@@ -92065,6 +92217,7 @@
 +.steamchina.com
 +.steamcn.com
 +.steamcommunitya.akamaihd.net
++.steamcontent.com
 +.steamdd.com
 +.steamhost.info
 +.steammm.com
@@ -92229,6 +92382,12 @@
 +.stulip.org
 +.stuliving.com
 +.stuln.com
++.stun.*.*
++.stun.*.*.*
++.stun.*.*.*.*
++.stun.*.*.*.*.*
++.stun.l.google.com
++.stun.playstation.net
 +.stunkrins.com
 +.stunnel.vip
 +.stupid77.com
@@ -92952,6 +93111,7 @@
 +.swchina.org
 +.swckc.com
 +.swdist.apple.com
++.swdownload.apple.com
 +.swdyz.com
 +.sweetalkos.com
 +.sweetdan.com
@@ -93020,6 +93180,7 @@
 +.swotbbs.com
 +.swpubar.com
 +.swq242xc54.com
++.swquery.apple.com
 +.swrjzxw.com
 +.swsbw.com
 +.swscan.apple.com
@@ -95723,7 +95884,9 @@
 +.tesiro.com
 +.tesolsh.com
 +.tesoon.com
++.test
 +.test.gbugsqa.chromium.org
++.test.steampowered.com
 +.testbird.com
 +.testcignacmb.com
 +.testcoo.com
@@ -96502,13 +96665,24 @@
 +.tillcn.com
 +.tillglance.com
 +.timanetworks.com
++.time.*.apple.com
++.time.*.com
++.time.*.gov
 +.time.izatcloud.net
 +.time.xtracloud.net
++.time1.*.com
++.time2.*.com
++.time3.*.com
++.time4.*.com
++.time5.*.com
++.time6.*.com
++.time7.*.com
 +.timecloud.us
 +.timecoo.com
 +.timedg.com
 +.timedoo.com
 +.timeep.com
++.timeios.apple.com
 +.timelate.com
 +.timelessq.com
 +.timemachine.icu
@@ -97588,6 +97762,7 @@
 +.tpkey.com
 +.tplcd100.com
 +.tplife.com
++.tplinkwifi.net
 +.tplogincn.com
 +.tpooo.com
 +.tpoxiaozhan.com
@@ -97890,6 +98065,7 @@
 +.tryz.net
 +.trzhineng.com
 +.ts.cc
++.ts.net
 +.ts0775.com
 +.ts100.com
 +.ts166.net
@@ -101897,6 +102073,7 @@
 +.warchina.com
 +.warcraftchina.com
 +.wargamecn.com
++.wargaming.net
 +.warhammertech.com
 +.warmchina121.com
 +.warmjar.com
@@ -103720,6 +103897,7 @@
 +.widuu.com
 +.wietone.com
 +.wifenxiao.com
++.wifi.cmcc
 +.wifi.com
 +.wifi188.com
 +.wifi33.com
@@ -106194,6 +106372,8 @@
 +.xbnj.net
 +.xbongbong.com
 +.xboot.org
++.xbox.*.*.microsoft.com
++.xbox.*.microsoft.com
 +.xbox.com
 +.xboxlive.com
 +.xbpex.com
@@ -110843,6 +111023,8 @@
 +.yabyy.com
 +.yac8.com
 +.yac8.net
++.yacd.haishan.me
++.yacd.metacubex.one
 +.yace17.com
 +.yach.me
 +.yachtsinchina.com
@@ -120761,6 +120943,7 @@
 +.ztdli.com
 +.ztdsp.com
 +.ztdzgf.net
++.zte.home
 +.zte.net
 +.ztedevice.com
 +.ztedevices.com
