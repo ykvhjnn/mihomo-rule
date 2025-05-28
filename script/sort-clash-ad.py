@@ -52,7 +52,6 @@ def extract_domain(line: str) -> str | None:
         ("DOMAIN,", 7),
         ("DOMAIN-SUFFIX,", 14),
         ("+.", 2),
-        ("*", 1),
         (".", 1)
     ]:
         if line.startswith(prefix):
