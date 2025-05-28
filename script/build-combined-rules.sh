@@ -28,6 +28,7 @@ declare -A RULES=(
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
+        https://raw.githubusercontent.com/ykvhjnn/mihomo-rule/refs/heads/main/self/Ad-fix.yaml
     "
     [AdBIG]="sort-clash-ad.py
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
@@ -43,18 +44,28 @@ declare -A RULES=(
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
+        https://raw.githubusercontent.com/ykvhjnn/mihomo-rule/refs/heads/main/self/Ad-fix.yaml
     "
-    [Proxy]="sort-clash.py
+    [Proxy]="sort-clash-Proxy.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
         https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
+        https://raw.githubusercontent.com/ykvhjnn/mihomo-rule/refs/heads/main/self/Proxy-fix.yaml
     "
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
+        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/private.list
+        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/fakeip-filter.list
+        https://raw.githubusercontent.com/ykvhjnn/mihomo-rule/refs/heads/main/self/Direct-fix.yaml
+    "
+    [DirectFix]="sort-clash.py
+        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/private.list
+        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/fakeip-filter.list
+        https://raw.githubusercontent.com/ykvhjnn/mihomo-rule/refs/heads/main/self/Direct-fix.yaml
     "
 )
 
