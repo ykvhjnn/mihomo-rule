@@ -14,7 +14,7 @@ FILTER_KEYWORDS = [
     "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,",
     "IP-SUFFIX,", "GEOIP,", "GEOSITE,",
     "#", "!", "/", "【", "】", "[", "]", "$",
-    "1drv", "1e100", "abema", "appledaily", "avtb", "beetalk", "blogspot", "dlercloud", "dropbox", "facebook", "fbcdn", "gmail", "google", "instagram", "onedrive", "paypal", "porn", "sci-hub", "skydrive", "spotify", "telegram", "ttvnw", "twitter", "uk-live", "whatsapp", "youtube"
+    "1drv", "1e100", "abema", "appledaily", "avtb", "beetalk", "blogspot", "dlercloud", "dropbox", "facebook", "fbcdn", "gmail", "google", "instagram", "onedrive", "paypal", "porn", "sci-hub", "skydrive", "spotify", "telegram", "ttvnw", "twitter", "uk-live", "whatsapp", "youtube", "bilibili.com"
 ]
 
 def clean_line(line: str) -> str:
