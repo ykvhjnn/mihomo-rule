@@ -13596,7 +13596,6 @@
 +.astrostanleystudio.com
 +.asuidnfamun.com
 +.asurada.zone
-+.asusrouter.com
 +.asussh.com
 +.asussmart.com
 +.asusw.net
@@ -19376,6 +19375,7 @@
 +.caiacn.com
 +.caiair.com
 +.caian.net
++.caiasusrouter.com
 +.caiba.com
 +.caibangzi.com
 +.caibaodi.com
@@ -19445,7 +19445,6 @@
 +.caijj.com
 +.caike.com
 +.caiku.cc
-+.caiku.com
 +.caikuai91.com
 +.caikuaitoutiao.com
 +.caikuo.com
@@ -63585,6 +63584,7 @@
 +.ktxuexi.com
 +.kty235.com
 +.ktyunlianjie.com
++.ku.com
 +.ku25.com
 +.ku33a.net
 +.ku6.com
@@ -105565,6 +105565,7 @@
 +.www.analog.com
 +.www.apple.com
 +.www.apple.com.edgekey.net
++.www.asusrouter.com
 +.www.bing.com
 +.www.cg
 +.www.com.my

@@ -6086,6 +6086,7 @@
 +.adstracking.com
 +.adstracking.io
 +.adstract.com
++.adstrails.com
 +.adstransparency.google.com
 +.adsttp2.tiktokw.eu
 +.adsttp2.tiktokw.eu.edgesuite.net
@@ -7211,7 +7212,6 @@
 +.ailive.space
 +.ailog.biz
 +.ailrooptaijoa.net
-+.ails.com
 +.ailtashoackie.com
 +.aim4media.com
 +.aiman.club
@@ -31375,6 +31375,7 @@
 +.etcjot.vip
 +.etcjow.vip
 +.etcjuh.win
++.etcjvh.vip
 +.etcjwr.win
 +.etcka.vip
 +.etckal.vip
@@ -31634,7 +31635,7 @@
 +.etlz1mt67.com
 +.etmerncoasic.top
 +.etntuc.club
-+.etology.conitorstsdk.vivoglobal.com
++.etology.com
 +.etoloplace.pro
 +.etour.com
 +.etozo.biz
