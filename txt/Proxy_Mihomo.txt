@@ -1240,7 +1240,6 @@
 +.aniscartujo.com
 +.anistreaming.xyz
 +.ankarazirvesi2018.com
-+.ankmobilevibe.com
 +.annamilk.com
 +.annasarchive.org
 +.annatam.com
@@ -1313,6 +1312,7 @@
 +.aphongkong.tencentcos.cn
 +.aphongkong.tencentcos.com
 +.aphongkong.tencentcos.com.cn
++.api.bilibili.com
 +.api.mixpanel.com
 +.api.nebulaemby.com
 +.api.news
@@ -1546,7 +1546,6 @@
 +.arabxnxx.org
 +.arabysexy.com
 +.arabysexy.mobi
-+.arallels.com
 +.aramco
 +.arcadewank.com
 +.arcgis.com
@@ -1565,7 +1564,6 @@
 +.arecabackup.org
 +.arewereadyyet.com
 +.areyoucreditwise.com
-+.arget.com
 +.argotunnel.com
 +.arirangmeari.com
 +.armorgames.com
@@ -1671,7 +1669,6 @@
 +.atgfw.org
 +.athenaeizou.com
 +.athleta
-+.ationwide.com
 +.atkgallery.com
 +.atlanta168.com
 +.atlantaminidealers.com
@@ -1705,7 +1702,6 @@
 +.attmail.com
 +.attnetclient.com
 +.attonlineoffers.com
-+.attoo.com
 +.attpromotions.com
 +.attproxy.com
 +.attpublicpolicy.com
@@ -2229,7 +2225,6 @@
 +.bbycontent.net
 +.bbyintl.com
 +.bbystatic.com
-+.bc.com
 +.bcbits.com
 +.bcchinese.net
 +.bcicdn.com
@@ -4133,7 +4128,6 @@
 +.cloakpoint.com
 +.clock.isc.org
 +.clojure.org
-+.cloud.com
 +.cloudapp.net
 +.cloudappsecurity.com
 +.cloudburstresearch.com
@@ -4141,7 +4135,6 @@
 +.cloudchoose.com
 +.cloudcone.com
 +.cloudcone.net
-+.cloudcontent.com
 +.cloudconvert.com
 +.cloudcraze.com
 +.cloudcredibility.com
@@ -4421,7 +4414,6 @@
 +.cp44.net
 +.cpan.org
 +.cpedge.com
-+.cpenney.com
 +.cpj.org
 +.cqcorea.com
 +.cr
@@ -5479,7 +5471,6 @@
 +.eachpay.com
 +.eachpay.net
 +.eacodigos.com
-+.ead01.com
 +.eadultgames.com
 +.eafootballworld.com
 +.eamirrorsedge.com
@@ -6002,7 +5993,6 @@
 +.etsy.com
 +.ettoday.net
 +.ettrade.com.hk
-+.ettyimages.com
 +.etugra.com
 +.etviet.com
 +.etvonline.hk
@@ -6053,7 +6043,6 @@
 +.evgld7cg58l8.com
 +.evilangel.com
 +.evise.com
-+.evo.com
 +.evolver.com
 +.evolver3d.com
 +.evolverpro.com
@@ -6565,7 +6554,6 @@
 +.finisharabia.com
 +.finishdishwashing.com
 +.finishinfo.com
-+.finity.com
 +.finler.net
 +.finlitsummit.org
 +.fiotolia.com
@@ -8222,7 +8210,6 @@
 +.hindawi.com
 +.hindiweb.com
 +.hinet.net
-+.hinkgeek.com
 +.hipaa6020.com
 +.hippyhillscomix.com
 +.hipzoom.net
@@ -8873,7 +8860,6 @@
 +.iconfactory.net
 +.iconpaper.org
 +.icons8.com
-+.icrosofttranslator.com
 +.icuminside.com
 +.icuproject.org
 +.id
@@ -9137,8 +9123,6 @@
 +.infrapedia.com
 +.infraworks.com
 +.ing
-+.ing.com
-+.ing.net
 +.ingads.com
 +.ingest.applestudies.com
 +.ingka.com
@@ -9398,7 +9382,6 @@
 +.isfocus.net
 +.isgame365.cc
 +.isgreat.org
-+.ish.com
 +.isheppc.com
 +.ishowsapp.com
 +.isiknowledge.com
@@ -9926,7 +9909,6 @@
 +.jwpsrv.com
 +.jyxf.net
 +.jzydh.com
-+.k.com
 +.k9vidz.com
 +.kaamuu.com
 +.kaggle.com
@@ -10106,7 +10088,6 @@
 +.kmeleonbrowser.org
 +.kmff17.com
 +.kn
-+.knews.cc
 +.knovel.com
 +.knowledgerush.com
 +.knowyourmeme.com
@@ -10295,7 +10276,6 @@
 +.leancloud.com
 +.leannecrowvideos.com
 +.learnwithleague.com
-+.learsurance.com
 +.leavinghpinc.com
 +.leclerc
 +.lecloud.net
@@ -10462,7 +10442,6 @@
 +.linuxmint.com
 +.linuxtoy.org
 +.lionsroar.com
-+.lipboard.com
 +.lipsy
 +.lipuman.com
 +.liquid.com
@@ -11484,7 +11463,6 @@
 +.mlssoccer.com
 +.mlzs.work
 +.mm
-+.mm.com
 +.mm9841.cc
 +.mm9c63ae.xyz
 +.mma
@@ -12072,7 +12050,6 @@
 +.naattidns.net
 +.nab
 +.nabble.com
-+.nac.com
 +.nagoya
 +.naiadsystems.com
 +.naihenda.shop
@@ -13060,9 +13037,6 @@
 +.oranum.com
 +.orbitera.com
 +.orchidbbs.com
-+.ordstrom.com
-+.ordstromimage.com
-+.ordstromrack.com
 +.oreilly.com
 +.oreilly.review
 +.oreillystatic.com
@@ -13112,7 +13086,6 @@
 +.ossmeeast1.aliyuncs.com
 +.ossuseast1.aliyuncs.com
 +.ossuswest1.aliyuncs.com
-+.ostco.com
 +.osxdaily.com
 +.otaku168.com
 +.otaku18a.info
@@ -13265,8 +13238,6 @@
 +.parstream.net
 +.parstream.org
 +.partmaker.com
-+.partmentratings.com
-+.partments.com
 +.partycasino.com
 +.partylikeits1986.org
 +.partypoker.com
@@ -13436,7 +13407,6 @@
 +.phxbmw.com
 +.physicalexam.info
 +.physiology.org
-+.pi.bilibili.com
 +.piaotia.com
 +.piaotian.net
 +.piapro.net
@@ -13716,7 +13686,6 @@
 +.ppbmod.buzz
 +.ppe.lawyer
 +.pplah.com
-+.pple.com
 +.pplusstatic.com
 +.ppp91.cc
 +.pppds.com
@@ -14070,9 +14039,7 @@
 +.r18luavi.shop
 +.rabbitscams.com
 +.rabbitsreviews.com
-+.racfone.com
 +.racked.com
-+.rackle.com
 +.radeon.com
 +.radgametools.com
 +.radian6.com
@@ -15893,7 +15860,6 @@
 +.supremacy.com
 +.supremacy.net
 +.suprememastertv.com
-+.surance.com
 +.surface.com
 +.surfeasy.com
 +.surflite.net
@@ -17134,7 +17100,6 @@
 +.unix100.com
 +.unknownspace.org
 +.unkoscene.com
-+.unkyimg.com
 +.unlocklimitlesslearning.com
 +.unlocktool.net
 +.unmineable.com
@@ -17157,7 +17122,6 @@
 +.update.crashlytics.com
 +.updatestar.com
 +.updatetube.com
-+.uperpages.com
 +.upfrontcfd.com
 +.upfrontfea.com
 +.upghsbc.com
@@ -18480,7 +18444,6 @@
 +.xnd4ty0ojsqzfd.com
 +.xne1a4c
 +.xnertv.shop
-+.xnetworks.com
 +.xnfiqs8sxootzz.xnhxt814e
 +.xnflw351e
 +.xnflw351e.com
@@ -18653,7 +18616,6 @@
 +.xt.pub
 +.xtegvk.xyz
 +.xteko.com
-+.xtmatrix.com
 +.xtracloud.net
 +.xtube.com
 +.xtubebdsm.com
@@ -19239,7 +19201,6 @@
 +.zsh.org
 +.zspeeder.me
 +.zsrhao.com
-+.zstatic.com
 +.zsuxtxktv.shop
 +.ztedevices.com
 +.zteman.net

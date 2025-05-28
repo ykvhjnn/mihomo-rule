@@ -3248,6 +3248,7 @@
 +.264006.com
 +.264321.com
 +.264400.com
++.265.com
 +.26582.vip
 +.26595.com
 +.265g.com
@@ -4756,7 +4757,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404:NotFound265.com
++.404:NotFoundasusrouter.com
 +.404:NotFoundcn.bing.com
 +.404mzk.com
 +.404wan.com
@@ -19375,7 +19376,6 @@
 +.caiacn.com
 +.caiair.com
 +.caian.net
-+.caiasusrouter.com
 +.caiba.com
 +.caibangzi.com
 +.caibaodi.com
@@ -19445,6 +19445,7 @@
 +.caijj.com
 +.caike.com
 +.caiku.cc
++.caiku.com
 +.caikuai91.com
 +.caikuaitoutiao.com
 +.caikuo.com
@@ -63584,7 +63585,6 @@
 +.ktxuexi.com
 +.kty235.com
 +.ktyunlianjie.com
-+.ku.com
 +.ku25.com
 +.ku33a.net
 +.ku6.com
