@@ -1,3 +1,4 @@
++.+n.com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -723,6 +724,7 @@
 +.adobesc.com
 +.adobesign.com
 +.adobesigncdn.com
++.adobesigncdocarioca.com
 +.adobespark.com
 +.adobess.com
 +.adobestock.com
@@ -14882,6 +14884,7 @@
 +.porn
 +.porn.biz
 +.porn.com
++.porn000webhost.com
 +.porn1videos.com
 +.porn2.com
 +.porn2012.com
@@ -17631,6 +17634,7 @@
 +.syhacked.com
 +.sylfoundation.org
 +.symantec.com
++.symantecliveupdate.com
 +.symauth.com
 +.symcb.com
 +.symcd.com
@@ -18818,6 +18822,7 @@
 +.ubuntu.com
 +.ubuntu.net
 +.ubuntuforums.org
++.ubuntuforums.ot
 +.ucam.org
 +.ucanews.com
 +.ucdc1998.org
@@ -20069,6 +20074,7 @@
 +.wtf
 +.wtfpeople.com
 +.wto.org
++.wty.com
 +.wuerkaixi.com
 +.wufafangwen.com
 +.wuguoguang.com
