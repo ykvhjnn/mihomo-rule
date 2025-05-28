@@ -3248,7 +3248,6 @@
 +.264006.com
 +.264321.com
 +.264400.com
-+.265.com
 +.26582.vip
 +.26595.com
 +.265g.com
@@ -4757,7 +4756,7 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404:NotFoundadguardteam.github.io
++.404:NotFound265.com
 +.404:NotFoundcn.bing.com
 +.404mzk.com
 +.404wan.com
@@ -10411,6 +10410,7 @@
 +.adgone.com
 +.adgoods.com
 +.adguardprivate.com
++.adguardteam.github.io
 +.adhei.com
 +.adhimalayandi.com
 +.adhubbj.xyz
