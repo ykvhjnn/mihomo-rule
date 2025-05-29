@@ -33,7 +33,8 @@ FILTER_KEYWORDS = [
 
 # 清理规则行的冗余字符
 def clean_line(line: str) -> str:
-    for ch in " -\"'|^":
+    """清理行中的空格、无效符号，标准化原始字符串。"""
+    for ch in " \"'|^":
         line = line.replace(ch, "")
     return line
 
@@ -45,15 +46,30 @@ def is_filtered_line(line: str) -> bool:
 
 # 提取有效域名
 def extract_domain(line: str) -> str | None:
+    """
+    从规则行中提取有效域名。
+    支持以下格式：
+      - 'DOMAIN,domain'
+      - 'DOMAIN-SUFFIX,domain'
+      - '+.domain'
+      - '*.domain'
+      - '.domain'
+      - 纯域名
+    """
     line = clean_line(line.strip())
     if is_filtered_line(line):
         return None
     for prefix, offset in [
         ("DOMAIN,", 7),
-        ("DOMAINSUFFIX,", 13),
+        ("DOMAIN-SUFFIX,", 14),
         ("+.", 2),
         ("*.", 2),
-        (".", 1)
+        (".", 1),
+        ("-DOMAIN,", 8),
+        ("-DOMAIN-SUFFIX,", 15),
+        ("-+.", 3),
+        ("-*.", 3),
+        ("-.", 2)
     ]:
         if line.startswith(prefix):
             return line[offset:]
