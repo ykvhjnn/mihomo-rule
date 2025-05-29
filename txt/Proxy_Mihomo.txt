@@ -2022,7 +2022,6 @@
 +.axios.com
 +.axureformac.com
 +.ayabank.com
-+.ayrtm.com
 +.ayshdade.info
 +.ayshdee.xyz
 +.ayudanintendo.com
