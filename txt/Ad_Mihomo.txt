@@ -4421,6 +4421,7 @@
 +.adashx4sg.ut.taobao.com
 +.adashx4yt.m.taobao.com
 +.adashxgc.ut.taobao.com
++.adashxppnrtstsdk.vivoglobal.com
 +.adasiaholdings.com
 +.adassets.bbbgame.net
 +.adassets.futurecdn.net
@@ -7807,6 +7808,7 @@
 +.alertsonmicrosoft.click
 +.alertstcloud.com
 +.alertwoocommerce.com
++.ales.life
 +.alesoh.com
 +.alessandraleone.com
 +.alevsesli.net
@@ -11876,6 +11878,7 @@
 +.ascent360.com
 +.ascentaudiologycherryhill.com
 +.ascentive.com
++.ascentral.sina.com
 +.asco.d2.sc.omtrdc.net
 +.asconesyangtze.top
 +.ascpqnjoam.global.ssl.fastly.net
@@ -18606,7 +18609,7 @@
 +.calfn.win
 +.calibermind.com
 +.calkedintruse.shop
-+.call.me.sel.sony.com
++.call.me.sel.sony.ceytapimage.com
 +.call.thebutterfly.eu
 +.callahanward.com
 +.callback.58.com
@@ -27682,6 +27685,7 @@
 +.dhfsid.heytapimage.com
 +.dhfsid.oppomobile.com
 +.dhfsin.heytapimage.com
++.dhfsin.hsmbccns.com
 +.dhfsin.oppomobile.com
 +.dhfsmy.heytapimage.com
 +.dhfsph.heytapimage.com
@@ -36615,6 +36619,7 @@
 +.gc.his2nd.life
 +.gc.newsweek.com
 +.gc.squidsveena.com
++.gc.ut.taobao.com
 +.gcacy.com
 +.gcbflvx.cn
 +.gccnntq.cn
@@ -41401,6 +41406,7 @@
 +.honorableland.com
 +.honoraryoftencreatures.com
 +.honorataskarbek.com
++.honorcloud.com
 +.honoredanteater.pro
 +.honoredsilkworm.pro
 +.honorfoods.food
@@ -41882,6 +41888,7 @@
 +.hstats.hepsiburada.com
 +.hstpnetwork.com
 +.hstrck.com
++.hsubtlelady.com
 +.hsvgxmljiaoob.fun
 +.hsvqtlx.info
 +.hsy37dhis.lat
@@ -41999,7 +42006,6 @@
 +.hub.oncenter.com
 +.hub.outsideinc.com
 +.hub.swana.org
-+.hub5btmain.sandai.net
 +.hub5btmain.v6.shub.sandai.net
 +.hub5emu.sandai.net
 +.hub5emu.v6.shub.sandai.net
@@ -43801,6 +43807,7 @@
 +.inajachoga.shop
 +.inaltariaon.com
 +.inanalyzerappstore.vivoglobal.com
++.inapg.syai.com
 +.inappertising.org
 +.inappi.me
 +.inapponrtstsdk.vivoglobal.com
@@ -44264,6 +44271,7 @@
 +.ingensbarb.pro
 +.ingest.make.rvapps.io
 +.ingest.make.rvohealth.com
++.ingest.sentry.ioliverycpb.online
 +.ingestdataafra.snappfood.dev
 +.ingestlr.com
 +.ingigalitha.com
@@ -44337,6 +44345,7 @@
 +.inmense.site
 +.inmind.site
 +.inmiuilog.sms.intl.xiaomi.com
++.inmnewsmaxwidget.com
 +.inmobi.cn
 +.inmobiapis.com
 +.inmobicdn.cn
@@ -44876,6 +44885,7 @@
 +.invenio.sgn.com
 +.inveno.com
 +.inventiveinnovation24.com
++.inventoryopene.com
 +.invescogroup.sc.omtrdc.net
 +.invescogroup.tt.omtrdc.net
 +.investalepregnancy.com
@@ -50961,6 +50971,7 @@
 +.llcapple.com
 +.lledefrancenavigo.com
 +.llelevenslab.com
++.llercentralsafetyamazon.com
 +.lloogg.com
 +.llorenteycuencadotyammtrack.appspot.com
 +.llovesgreat.com
@@ -58659,7 +58670,6 @@
 +.nbafocuslive.com
 +.nbajerseysnike.us.com
 +.nbalivetv.com
-+.nbanlv.com
 +.nbaprop.sc.omtrdc.net
 +.nbaprop.tt.omtrdc.net
 +.nbccnoaxif.com
@@ -59151,7 +59161,6 @@
 +.neurofeedbacktr.com
 +.neuroid.com
 +.neurolytix.run
-+.neurondeck.site
 +.neuronform.online
 +.neuronlace.site
 +.neuronline.site
@@ -59341,7 +59350,6 @@
 +.newslosaji.com
 +.newsmartring2579.click
 +.newsmaxfeednetwork.com
-+.newsmaxwidget.com
 +.newsmetricsanalyticsping.malaysiakini.com
 +.newsmevedo.com
 +.newsmuheji.com
@@ -59876,7 +59884,7 @@
 +.nonfrstrad.pro
 +.nongxiansai.xyz
 +.nonice.agency
-+.nonnybonnycatinventoryopene.com
++.nonnybonnycatonitorstsdk.vivoglobal.com
 +.nonpungency.autos
 +.nonreliance.makeup
 +.nonstopsave.com
@@ -60657,7 +60665,6 @@
 +.oapseegluls.com
 +.oariumpinwing.top
 +.oascentral.inq7.net
-+.oascentral.sina.com
 +.oascentral.tvnewscheck.com
 +.oasgames.com
 +.oasiisemars.com
@@ -62414,6 +62421,7 @@
 +.openrefineuser.org
 +.openrevolt.info
 +.opens.mlbemail.com
++.opensdk.wlanbanlv.com
 +.opensea.best
 +.opensea.club
 +.openseadelivery.top
@@ -74283,7 +74291,6 @@
 +.sellerappsss.icu
 +.sellerbrtiktok.com
 +.sellercentralprotectedamazon.com
-+.sellercentralsafetyamazon.com
 +.sellerglobal.top
 +.sellerglobal.vip
 +.sellerhoop.com
@@ -76872,7 +76879,6 @@
 +.smbccardkl.xin
 +.smbccardx.com
 +.smbccn.net
-+.smbccns.com
 +.smbchelp.top
 +.smbcmobit.club
 +.smbcsz.com
@@ -79459,7 +79465,7 @@
 +.staticpixel.gliastudios.com
 +.statics.a8.net
 +.statics.woozooo.com
-+.staticsb.com
++.staticsb.comhttpdns.pro
 +.staticsns.cdn.bcebos.com
 +.staticsrv.com
 +.staticstorage.com
@@ -80541,7 +80547,6 @@
 +.subskypmaal.com
 +.subsrenw.com
 +.subsworker.bid
-+.subtlelady.com
 +.subtleunicorn.pro
 +.subway2016.tt.omtrdc.net
 +.subwaydelivery.top
@@ -86720,7 +86725,6 @@
 +.tracking.staffstart.com
 +.tracking.sunshinebh.com
 +.tracking.swimoutlet.com
-+.tracking.syai.com
 +.tracking.sytecycle.com
 +.tracking.t.mercedesbenz.com.cn
 +.tracking.tdk.cn
@@ -86857,6 +86861,7 @@
 +.trackingus1.advancedcommerce.services
 +.trackinguseast.tmbid.com
 +.trackingweb.bitunix.com
++.trackinub5btmain.sandai.net
 +.trackip.net
 +.trackjn151hznwb921.3uropamail.com
 +.trackjs.com
@@ -88695,6 +88700,7 @@
 +.uiibesonat.top
 +.uikyqdtressuj.online
 +.uil.cbs.baidu.com
++.uil7dataother.pt.miui.com
 +.uiloll.top
 +.uimarketpro.com
 +.uimlsvvap.international
@@ -90394,7 +90400,6 @@
 +.valorydova.art
 +.valotelemetry.azurewebsites.net
 +.valotenzz.top
-+.valsooshucmusi.net
 +.valtenio.com
 +.valto.top
 +.valuad.cloud
@@ -93412,7 +93417,6 @@
 +.wholehousecleaning.com
 +.wholehousecleaningservice.com
 +.wholesalejerseyscheapjerseys.com
-+.wholesales.life
 +.wholeyelw.com
 +.wholituaten.com
 +.whomania.com
@@ -95217,7 +95221,6 @@
 +.xn80ak6aa92e.com
 +.xna10125mayisfirsatlarisprgek0cb.com
 +.xnaaideliverykdb.store
-+.xnaaizinhodeliverycpb.online
 +.xnacairegiodelivery9sb.site
 +.xnachbar.info
 +.xnaiuq.com
