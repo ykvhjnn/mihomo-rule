@@ -8454,6 +8454,7 @@
 +.amoviemedia.com
 +.amp.audiologyplus.com
 +.amp.vg
++.ampaniyasi.com
 +.ampautowin88.com
 +.ampcid.google.com
 +.ampclicks.com
@@ -9944,7 +9945,6 @@
 +.analyticstracking.meetup.com
 +.analyticstransfer.taxsee.com
 +.analyticstransferid.taximaxim.com
-+.analyticstst.myclay.com
 +.analyticstst.saltoks.com
 +.analyticsttp2.tiktokw.eu
 +.analyticsttp2.us.tiktok.com
@@ -20985,6 +20985,7 @@
 +.clatteqrpq.digital
 +.claudfront.net
 +.clavisadvancelocalprod.arcperso.aws.arc.pub
++.clay.com
 +.claycopesix.autos
 +.claycoua.pro
 +.claygalago.pro
@@ -30963,7 +30964,6 @@
 +.endesafacturacion.com
 +.endingsdurns.top
 +.endingthefed.com
-+.endirimkampaniyasi.com
 +.endivestlr.shop
 +.endlessaspirant.com
 +.endlessenterprisebrawl.com
@@ -33239,6 +33239,7 @@
 +.f98q.xyz
 +.f98s.xyz
 +.f99b.xyz
++.f9e.top
 +.f9tmep.net
 +.fa.163.com
 +.fa.micstatic.com
@@ -34828,7 +34829,6 @@
 +.flonasenasalsprays.com
 +.floodprincipal.com
 +.floorforce.com
-+.flooringbyjulian.com
 +.flooringjikus.pro
 +.floors.dev
 +.floorservicebryz222.asia
@@ -35486,6 +35486,7 @@
 +.franksfloral.com
 +.frankstahltechnicians.com
 +.frankventura.com
++.franprixholtrk.elmorietschle.cn
 +.franzredheadline.com
 +.frap.site
 +.frapi.xmpush.global.xiaomi.com
@@ -36752,6 +36753,7 @@
 +.genieedmp.com
 +.genieessp.com
 +.geniescorc.pro
++.genieuil7dataother.pt.miui.com
 +.geniusdexchange.com
 +.geniusesforhire.com
 +.geniuslinkcdn.com
@@ -44264,6 +44266,7 @@
 +.ingensbarb.pro
 +.ingest.make.rvapps.io
 +.ingest.make.rvohealth.com
++.ingest.sentry.ionewss.news
 +.ingestdataafra.snappfood.dev
 +.ingestlr.com
 +.ingigalitha.com
@@ -47049,6 +47052,7 @@
 +.kamunet.xyz
 +.kanadead.net
 +.kanagannne.xyz
++.kanaideo.qq.com
 +.kanakox.com
 +.kanalytix.com
 +.kanan777.com
@@ -47731,7 +47735,6 @@
 +.kmcnultylawoffice.xyz
 +.kmdyage.sbs
 +.kmecw.com
-+.kmf9e.top
 +.kmgfjc.cn
 +.kmglfrstbgn.shop
 +.kmglfrstbgnn.shop
@@ -47757,6 +47760,7 @@
 +.kmstool.com
 +.kmtendationfore.org
 +.kmtrak.com
++.kmu51.me
 +.kmvcity.com
 +.knapedriers.shop
 +.knatchcoxier.com
@@ -48214,6 +48218,7 @@
 +.kunlun999.com
 +.kunpeng.csdn.net
 +.kunpengsc.csdnimg.cn
++.kunslotabrosuat.zharev.com
 +.kunulo.cloud
 +.kunvertads.com
 +.kunyu.csdn.net
@@ -49266,6 +49271,7 @@
 +.liablestuff.com
 +.liadm.com
 +.liaizahn.com
++.lian.com
 +.liangxingjiankan.com
 +.lianle.com
 +.lianwangtech.com
@@ -58892,6 +58898,7 @@
 +.nessacapital.live
 +.nessainy.net
 +.nessustelemetry.tenable.com
++.nessvision.com
 +.nestbyte.site
 +.nestcartlabnode.com
 +.nesthatch.online
@@ -73981,7 +73988,6 @@
 +.secure.365visionaryinsightful.com
 +.secure.52enterprisingdetails.com
 +.secure.adtraction.com
-+.secure.agilebusinessvision.com
 +.secure.airsoftcanada.com
 +.secure.arrow.com
 +.secure.businessintuition247.com
@@ -76663,7 +76669,6 @@
 +.slorvixy.com
 +.slot898gamesonline.com
 +.slotabrosdev.zharev.com
-+.slotabrosuat.zharev.com
 +.slotbetangle.com
 +.slotbethumb.com
 +.slotbetoya.com
@@ -87465,7 +87470,6 @@
 +.trk.easyplant.com
 +.trk.ebookytz.xyz
 +.trk.elementor.com
-+.trk.elmorietschle.cn
 +.trk.enews.performancegolf.com
 +.trk.everydayhealth.com
 +.trk.expertsinpethealth.com
@@ -88443,7 +88447,6 @@
 +.u4ccj.icu
 +.u4ghy4.lat
 +.u4vwwd.skin
-+.u51.me
 +.u542.dailycamera.com
 +.u55011.com
 +.u566.chron.com
@@ -95845,7 +95848,6 @@
 +.yellowrosegreenwhite.autos
 +.yellowsloth.pro
 +.yellowstoneheart.top
-+.yellowwaternewss.news
 +.yellowwhitepurplered.autos
 +.yelonikal.com
 +.yemonisoni.com
