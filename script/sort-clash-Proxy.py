@@ -17,11 +17,11 @@ FILTER_KEYWORDS = [
     "1drv", "1e100", "abema", "appledaily", "avtb", "beetalk", "blogspot", "dlercloud", "dropbox", "facebook", "fbcdn", "gmail", "google", "instagram", "onedrive", "paypal", "porn", "sci-hub", "skydrive", "spotify", "telegram", "ttvnw", "twitter", "uk-live", "whatsapp", "youtube", "bilibili.com"
 ]
 
-def clean_line(line: str) -> str:
+#def clean_line(line: str) -> str:
     """清理行中的空格、无效符号，标准化原始字符串。"""
-    for ch in " -\"'|^":
-        line = line.replace(ch, "")
-    return line
+    #for ch in " -\"'|^":
+        #line = line.replace(ch, "")
+    #return line
 
 def is_filtered_line(line: str) -> bool:
     """
