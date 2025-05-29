@@ -19,7 +19,7 @@ FILTER_KEYWORDS = [
 
 def clean_line(line: str) -> str:
     """清理行中的空格、无效符号，标准化原始字符串。"""
-    for ch in " -\"'|^":
+    for ch in " \"'|^":
         line = line.replace(ch, "")
     return line
 
@@ -48,10 +48,12 @@ def extract_domain(line: str) -> str | None:
         return None
     for prefix, offset in [
         ("DOMAIN,", 7),
-        ("DOMAINSUFFIX,", 13),
+        ("DOMAIN-SUFFIX,", 13),
         ("+.", 2),
         ("*.", 2),
-        (".", 1)
+        (".", 1),
+        ("-", 1),
+        ("-+.", 3)
     ]:
         if line.startswith(prefix):
             return line[offset:]
