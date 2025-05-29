@@ -58659,6 +58659,7 @@
 +.nbafocuslive.com
 +.nbajerseysnike.us.com
 +.nbalivetv.com
++.nbanlv.com
 +.nbaprop.sc.omtrdc.net
 +.nbaprop.tt.omtrdc.net
 +.nbccnoaxif.com
@@ -62413,7 +62414,6 @@
 +.openrefineuser.org
 +.openrevolt.info
 +.opens.mlbemail.com
-+.opensdk.wlanbanlv.com
 +.opensea.best
 +.opensea.club
 +.openseadelivery.top
