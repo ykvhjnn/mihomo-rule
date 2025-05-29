@@ -3,10 +3,7 @@ import asyncio
 
 # 域名后缀黑名单
 REMOVE_END = [
-    "jsdelivr.net",
-    "jsdelivr.com",
-    "outlook.com",
-    "gh-proxy.com"
+    "abc.com"
 ]
 
 # 行内容黑名单关键词，含有这些内容的行将被忽略
@@ -18,7 +15,7 @@ FILTER_KEYWORDS = [
 
 def clean_line(line: str) -> str:
     """清理行中的空格、无效符号，标准化原始字符串。"""
-    for ch in " -\"'|^":
+    for ch in " \"'|^":
         line = line.replace(ch, "")
     return line
 
@@ -47,10 +44,15 @@ def extract_domain(line: str) -> str | None:
         return None
     for prefix, offset in [
         ("DOMAIN,", 7),
-        ("DOMAINSUFFIX,", 14),
+        ("DOMAIN-SUFFIX,", 14),
         ("+.", 2),
         ("*.", 2),
-        (".", 1)
+        (".", 1),
+        ("-DOMAIN,", 8),
+        ("-DOMAIN-SUFFIX,", 15),
+        ("-+.", 3),
+        ("-*.", 3),
+        ("-.", 2)
     ]:
         if line.startswith(prefix):
             return line[offset:]
