@@ -1120,6 +1120,7 @@
 +.amazonliterarypartnership.com
 +.amazonlumberyard.wang
 +.amazonpay.com
++.amazonpayin
 +.amazonprimevideos.com
 +.amazonsdi.com
 +.amazonses.com
@@ -1420,6 +1421,7 @@
 +.apple.xyz
 +.appleaccount.net
 +.appleafrica.com
++.appleafriuk
 +.appleantilles.com
 +.appleappstore.net
 +.appleaustralia.com
@@ -2394,6 +2396,7 @@
 +.beatsbydreheadphonesolo.com
 +.beatsbydrehut.com
 +.beatsbydreinexpensive.com
++.beatsbydreink
 +.beatsbydreireland-sales.com
 +.beatsbydreirelandonlines.com
 +.beatsbydreirelandsale.com
@@ -12092,6 +12095,7 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
++.n.com
 +.n0vadesktop.com
 +.n15zev3w.shop
 +.n26.com
@@ -17108,6 +17112,7 @@
 +.ucam.org
 +.ucanews.com
 +.ucdc1998.org
++.uclan.ac.uca.com
 +.udacity.com
 +.udemy.com
 +.udemycdn.com
@@ -18626,6 +18631,7 @@
 +.xn--x-qeu1ji09tzlg.net
 +.xn--xkc2dl3a5ee0h
 +.xn--xsq421m.com
++.xn--xsq605expensive.com
 +.xn--xsq605n.com
 +.xn--xsq959n.com
 +.xn--y9a3aq
