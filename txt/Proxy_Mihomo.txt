@@ -3761,6 +3761,7 @@
 +.cdn-apple.com
 +.cdn-terapeak.com
 +.cdn.angruo.com
++.cdn.arstechnica.net
 +.cdn.js7k.com
 +.cdn.segment.com
 +.cdn77.com
@@ -4057,6 +4058,7 @@
 +.ci
 +.ci-en.net
 +.ciattackers.com
++.cici.com
 +.ciciai.com
 +.cienen.com
 +.cilk.com
