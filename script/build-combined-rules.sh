@@ -16,7 +16,7 @@ error() {
 declare -A RULES=(
     [Ad]="sort-clash-ad.py
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
-        https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
+        https://raw.githubusercontent.com/ghvjjjj/adblockfilters/refs/heads/main/rules/adblockdomainlite.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
