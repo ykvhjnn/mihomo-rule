@@ -21,7 +21,8 @@ REMOVE_END = {
     ".tv", ".nr", ".as",
     # 中东
     ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", ".om", ".qa",
-    ".ye", ".kw", ".bh"
+    ".ye", ".kw", ".bh",
+    "ms.bdstatic.com"
 }
 
 # 规则行黑名单关键词
