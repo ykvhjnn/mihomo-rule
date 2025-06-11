@@ -97,6 +97,7 @@
 +.asusrouter.com
 +.b.e.f.ip6.arpa
 +.board.zash.run.place
++.challenges.cloudflare.com
 +.cn.bing.com
 +.d.f.ip6.arpa
 +.d.metacubex.one
