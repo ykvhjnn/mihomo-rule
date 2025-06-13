@@ -8,14 +8,13 @@ REMOVE_END = [
 
 # 行内容黑名单关键词，含有这些内容的行将被忽略
 FILTER_KEYWORDS = [
-    "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,",
-    "IP-SUFFIX,", "GEOIP,", "GEOSITE,",
-    "#", "!", "/", "【", "】", "[", "]", "$"
+    "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,",
+    "#", "!", "|", "*", "/", "$","【", "】", "[", "]"
 ]
 
 def clean_line(line: str) -> str:
     """清理行中的空格、无效符号，标准化原始字符串。"""
-    for ch in " \"'|^":
+    for ch in " \"'":
         line = line.replace(ch, "")
     return line
 
@@ -35,7 +34,6 @@ def extract_domain(line: str) -> str | None:
       - 'DOMAIN,domain'
       - 'DOMAIN-SUFFIX,domain'
       - '+.domain'
-      - '*.domain'
       - '.domain'
       - 纯域名
     """
@@ -46,12 +44,10 @@ def extract_domain(line: str) -> str | None:
         ("DOMAIN,", 7),
         ("DOMAIN-SUFFIX,", 14),
         ("+.", 2),
-        ("*.", 2),
         (".", 1),
         ("-DOMAIN,", 8),
         ("-DOMAIN-SUFFIX,", 15),
         ("-+.", 3),
-        ("-*.", 3),
         ("-.", 2)
     ]:
         if line.startswith(prefix):
