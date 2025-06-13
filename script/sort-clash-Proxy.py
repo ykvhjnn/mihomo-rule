@@ -11,8 +11,8 @@ REMOVE_END = [
 
 # 行内容黑名单关键词，含有这些内容的行将被忽略
 FILTER_KEYWORDS = [
-    "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,",
-    "IP-SUFFIX,", "GEOIP,", "GEOSITE,","#", "!", "|", "*", "/", "$","【", "】", "[", "]",
+    "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,", "IP-SUFFIX,", "GEOIP,", "GEOSITE,",
+    "#", "!", "|", "*", "/", "$","【", "】", "[", "]",
     "bilibili"
 ]
 
