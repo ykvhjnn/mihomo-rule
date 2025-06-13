@@ -38,7 +38,6 @@ def extract_domain(line: str) -> str | None:
       - 'DOMAIN,domain'
       - 'DOMAIN-SUFFIX,domain'
       - '+.domain'
-      - '*.domain'
       - '.domain'
       - 纯域名
     """
@@ -49,12 +48,10 @@ def extract_domain(line: str) -> str | None:
         ("DOMAIN,", 7),
         ("DOMAIN-SUFFIX,", 14),
         ("+.", 2),
-        ("*.", 2),
         (".", 1),
         ("-DOMAIN,", 8),
         ("-DOMAIN-SUFFIX,", 15),
         ("-+.", 3),
-        ("-*.", 3),
         ("-.", 2)
     ]:
         if line.startswith(prefix):
