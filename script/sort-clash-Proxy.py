@@ -12,9 +12,8 @@ REMOVE_END = [
 # 行内容黑名单关键词，含有这些内容的行将被忽略
 FILTER_KEYWORDS = [
     "payload:", "rules:", "regexp", "IP-CIDR,", "DOMAIN-KEYWORD,", "PROCESS-NAME,",
-    "IP-SUFFIX,", "GEOIP,", "GEOSITE,",
-    "#", "!", "|",
-    "1drv.", "1e100.", "abema.", "appledaily.", "avtb.", "beetalk.", "blogspot.", "dlercloud.", "dropbox.", "facebook.", "fbcdn.", "gmail.", "google.", "instagram.", "onedrive.", "paypal.", "porn.", "sci-hub.", "skydrive.", "spotify.", "telegram.", "ttvnw.", "twitter.", "uk-live.", "whatsapp.", "youtube.", "bilibili.com"
+    "IP-SUFFIX,", "GEOIP,", "GEOSITE,","#", "!", "|", "*", "/", "$","【", "】", "[", "]",
+    "bilibili"
 ]
 
 def clean_line(line: str) -> str:
